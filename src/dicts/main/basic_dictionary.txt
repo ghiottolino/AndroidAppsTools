@@ -1,0 +1,1205 @@
+the (transport) Shild|das (verkehrs) Shild
+the evening|der Abend
+the dinner|das Abendessen
+the superstition|der Aberglaube
+the exit|die Abfahrt
+the waste|der Abfall
+the trash|der Abfalleimer
+the departure|der Abflug
+the dependence|die Abhängigkeit
+the A-level|das Abitur
+the abbreviation|die Abkürzung
+the final whistle|der Abpfiff
+the refusal|die Absage
+the paragraph|der Absatz
+the completion|der Abschluss
+the section|der Abschnitt
+the crash|der Absturz
+the roller coaster|die Achterbahn
+the nobility|der Adel
+the similarity|die Ähnlichkeit
+the accordion|das Akkordeon
+the activity|die Aktivität
+the accent|der Akzent
+the album|das Album
+the general education|die Allgemeinbildung
+the nightmare|der Alptraum
+the old building|der Altbau
+the age|das Alter
+the traffic light|die Ampel
+the illiteracy|der Analphabetismus
+the analysis|die Analyse
+the pineapple|die Ananas
+the souvenir|das Andenken
+the beginning|der Anfang
+the approach (landing)|die Anflug
+the details|die Angabe
+the offer|das Angebot
+the employee|der Angestellte
+the fear|die Angst
+the prosecution|die Anklage
+the arrival|die Ankunft
+the plant|die Anlage
+the anorak|der Anorak
+the beginning|der Anpfiff
+the salutation|die Anrede
+the call|der Anruf
+the answering machine (A.B.)|der Anrufbeantworter (A.B.)
+the prestige|das Ansehen
+the view|die Ansicht
+the claim|der Anspruch
+the impetus|der Anstoß
+the antenna|die Antenne
+the response|die Antwort
+the application|die Anwendung
+the display|die Anzeige
+the suit (dress)|der Anzug
+the apple|der Apfel
+the orange|die Apfelsine
+the pharmacy|die Apotheke
+the apparatus|der Apparat
+the Apricot|die Aprikose
+april|der April
+the work|die Arbeit
+the employer|der Arbeitgeber
+the worker|der Arbeitnehmer
+the unemployment|die Arbeitslosigkeit
+the working hours|die Arbeitszeit
+the trouble|der Ärger
+the arm|der Arm
+the type|die Art
+the article|die Artikel
+the road|der Ast
+the attention|die Aufmerksamkeit
+the cuts|der Aufschnitt
+the eye|das Auge
+the eyebrow|die Augenbraue
+the eyelid|das Augenlid
+the corner of your eye|der Augenwinkel
+august|der August
+the training|die Ausbildung
+the expression|der Ausdruck
+the trip|der Ausflug
+the information|die Auskunft
+the exception|die Ausnahme
+the excuse|die Ausrede
+the pronunciation|die Aussprache
+the exhibition|die Austellung
+the car|das Auto
+the highway|die Autobahn
+the bumper cars|der Autoscooter
+the ax|die Axt
+the bakery|die Bäckerei
+the bathrobe|der Bademantel
+the bath|die Badewanne
+the web|die Bahn
+the station|der Bahnhof
+the stretcher|die Bahre
+the balcony|der Balkon
+the ball|der Ball
+the banana|die Banane
+the Bank|die Bank
+the base|die Basis
+the construction|der Bau
+the belly|der Bauch
+the farm|das Bauernhof
+the tree|der Baum
+the site|die Baustelle
+the cup|der Becher
+the pool|der Becken
+the need|das Bedürfnis
+the beginning|der Beginn
+the limiting|die Begrenzung
+the treatment|die Behandlung
+the leg|das Bein
+the sample|das Beispiel
+the convenience|die Bequemlichkeit
+the counseling|die Beratung
+the area|der Bereich
+the mountain|der Berg
+the reporting|die Berichterstattung
+the profession|der Beruf
+the employee|der Beschäftigte
+the decision|der Bescheid
+the broom|der Besen
+the visit|die Besichtigung
+the appointment|der Besichtigungtermin
+the regulation|die Bestimmung
+the concrete|der Beton
+the concrete mixer|der Betonmischer
+the emphasis|die Betonung
+the subject|der Betreff
+the operation|der Betrieb
+the bed|das Bett
+the bag|der Beutel
+the population|die Bevölkerung
+the movement|die Bewegung
+the hosting|die Bewirtung
+the payment|die Bezahlung
+the relationship|die Beziehung
+the bra|der BH (Büstenhalter)
+the picture|das Bild
+the screen|der Bildschirm
+the formation|die Bildung
+the bandage|die Binde
+the inland waters|das Binnengewässer
+the bulb|die Birne
+the bladder|die Blase
+the sheet|das Blatt
+the view|der Blick
+the flash|der Blitz
+the block|der Block
+the flower|die Blume
+the flower shop|das Blumengeschäft
+the flower shop|der Blumenladen
+the blouse|die Bluse
+the blood|das Blut
+the blood pressure|der Blutdruck
+the petal|das Blütenblatt
+the goat|der Bock
+the bottom|der Boden
+the boat|das Boot
+the boat trip|die Bootsfahrt
+the stock market|die Börse
+the Embassy|die Botschaft
+the tabloid|die Boulevardzeitung
+the Boutique|die Boutique
+the box|die Box
+the brand|der Brand
+the roast|der Braten
+the bride|die Braut
+the groom|der Bräutigam
+the board|das Brett
+the pretzels|die Brezel(Brezen)
+the glasses|die Brille
+the blackberry|die Brombeere
+the bread|das Brot
+the bun|das Brötchen
+the bridge|die Brücke
+the brother|der Bruder
+the chest|die Brust
+the book|das Buch
+the bookshop|die Buchhandlung
+the iron|das Bügeleisen
+the federal government|der Bund
+the state|das Bundesland
+the federal government|die Bundesregierung
+the federal republic|die Bundesrepublik
+the castle|die Burg
+the office|das Büro
+the brush|die Bürste
+the bus|der Bus
+the bus station|der Busbahnhof
+the butter|die Butter
+the cafè|das Cafè
+the campsite|der Campingplatz
+the Cdrom|die Cdrom
+the Cdrom-Drive|das Cdromlaufwerk
+the chaos|das Chaos
+the cousin|der Cousin
+the cousin|die Cousine
+the cream|die Creme
+the cursor|der Cursor
+the roof|das Dach
+the attic|der Dachboden
+the sanitary napkin|die Damenbinde
+the file|die Datei
+the privacy|der Datenschutz
+the date|das Datum
+the international date line|die Datumgrenze
+the thumb|der Daumen
+the ceiling|die Decke
+the cover|der Deckel
+the dike|der Deich
+the monument|das Denkmal
+the deodorant|das Deo
+the german course|der Deutschkurs
+december|der Dezember
+the hallway|die Diele
+the service|der Dienst
+tuesday|der Dienstag
+the disco|die Disco
+the floppy drive|das Diskettenlaufwerk
+the cathedral|der Dom
+the thunder|der Donner
+thursday|der Donnerstag
+the village|das Dorf
+the can|die Dose
+the drug|die Droge
+the pressure|der Druck
+the printer|der Drucker
+the darkness|das Dunkel
+the shower gel|das Duschgel
+the marriage|die Ehe
+the wife|die Ehefrau
+the husband|der Ehemann
+the married couple|das Ehepaar
+the divorce|die Ehescheidung
+the property (attribute)|die Eigenschaft
+the bucket|der Eimer
+the familiarization|die Einarbeitung
+the learning curve|die Einarbeitungszeit
+the impressions|die Eindrücke
+the influence|der Einfluss
+the entrance|der Eingang
+the shopping spree|der Einkaufsbummel
+the income|das Einkommen
+the admission|der Einlass
+the initiation|die Einleitung
+the furnishing|die Einrichtung
+the loneliness|die Einsamkeit
+the setting|die Einstellung
+the entry|der Eintritt
+the inhabitants|der Einwohner
+the ice|das Eis
+the ice pack|der Eisbeutel
+the ice cream parlor|die Eisdiele
+the ice cube|der Eiswürfel
+the elephant|der Elefant
+the reception|der Empfang
+the end|das Ende
+the energy|die Energie
+the angel|der Engel
+the grandson|der Enkel | Enkelsohn
+the granddaughter|die Enkelin | Enkeltochter
+the grandchild|das Enkelkind
+the memory|die Enrinnerung
+the kidnappers|der Entführer
+the abductees|der Entführte
+the entrance|der Entritt
+the apology|die Entschuldigung
+the emergence|die Entstehung
+the development|die Entwicklung
+the withdrawal|die Entzug
+the heritage|der Erbe
+the strawberry|die Erdbeere
+the earth|die Erde
+the peanut|die Erdnuss
+the petroleum|das Erdöl
+the event|das Ereignis
+the experience|die Erfahrung
+the result|das Ergebnis
+the common cold|die Erkältung
+the permission|die Erlaubnis
+the donkey|der Esel
+the food|das Essen
+the vinegar|der Essig
+the fable|die Fabel
+the tray|das Fach
+the truss|das Fachwerk
+the half-timbered house|das Fachwerkhaus
+the thread|der Faden
+the ability|die Fähigkeit
+the bike|das Fahrrad
+the ride|die Fahrt
+the case|der Fall
+the fold|die Falte
+the family|die Familie
+the fan|der Fan
+the fantasy|die Fantasie
+the facade|die Fassade
+the rule of thumb|die Faustregel
+february|der Februar 
+the error|der Fehler
+the file|die Feile
+the enemy|der Feind
+the field|das Feld
+the window|das Fenster
+the distance|die Ferne
+the TV|der Fernseher
+the wanderlust|das Fernweh
+the fire|das Feuer
+The firefighters|die Feuerwehr
+the fever|das Fieber
+finger|der Finger
+the fly|die Fliege
+the flea|der Floh
+the flea market|der Flohmarkt
+the airport|der Flughafen
+the aircraft|der Flugzeug
+the corridor|der Flur
+the river|der Fluss
+the hair dryer|der Föhn
+the sequence|die Folge
+the formula|die Formel
+the research|die Forschung
+the training|die Fortbildung
+the photo|das Foto
+the photo album|das Fotoalbum
+the photo business|das Fotogeschäft
+the photography|die Fotografie
+the question|die Frage
+the question mark|das Fragezeichen
+the woman|die Frau
+friday|der Freitag
+the foreign word|das Fremdwort
+the joy|die Freude
+the friend|der Freund
+the girlfriend|die Freundin
+the hair salon|das Friseursalon
+the frost|der Frost
+the fruit|die Frucht
+the spring|das Frühjahr
+the spring|der Frühling
+the breakfast|das Frühstück
+the joint|die Fuge
+the filler|der Füller
+the principality|das Fürstentum
+the foot|der Fuß
+the football|der Fußball
+the pedestrian walkway|der Fußgängerweg
+the pedestrian zone|die Fußgängerzone
+the gift|die Gabe
+the fork|die Gabel
+the transition|der Gang
+the goose|die Gans
+the garage|die Garage
+the alley|die Gasse
+the guest|der Gast
+the inn|das Gasthaus
+the building|das Gebäude
+the birth|die Geburt
+the memory|das Gedächtnis
+the patience|die Geduld
+the feeling|das Gefühl
+the counter-argument|der Gegengrund
+the opposite|das Gegenteil
+the presence|die Gegenwart
+the opponents|der Gegner
+the content|das Gehalt
+the brain|das Gehirn
+the hostage|die Geisel
+the taking of hostages|die Geiselnahme
+the spirit|der Geist
+the haunted|die Geisterbahn
+the avarice|der Geiz
+the railing|das Geländer
+the joint|das Gelenk
+the painting|das Gemälde
+the art gallery|die Gemäldegalerie
+the vegetables|das Gemüse
+the coziness|die Gemutlichkeit
+the enjoyment|der Genuss
+the stimulant|das Genussmittel
+the luggage|das Gepäck
+the device|das Gerat
+the noise|das Geräusch
+the court (law)|das Gericht
+the smell|der Geruch
+the business|das Geschäft
+the dishes|das Geschirr
+the gender|das Geschlecht
+the shouting|das Geschrei
+the face|das Gesicht
+the commercial|das Gewerbe
+the weight|das Gewicht
+the profit|der Gewinn
+the storm|das Gewitter
+the habit|die Gewohnheit
+the watering can|die Gießkanne
+the poison|das Gift
+the gypsum|der Gips
+the guitar|die Gitarre
+the glass|das Glas
+the glazed apple|der glasierte Apfel
+the belief|der Glaube
+the bell|die Glocke
+the gloss|die Glosse
+the luck|das Glück
+the lucky charms|der Glücksbringer
+the gondola|die Gondel
+the border|die Grenze
+the handle|der Griff
+the flu|die Grippe
+the grandmother|die Großmutter
+the grandfather|der Großvater
+the reason|der Grund
+the greeting|der Gruß
+the voucher|der Gutschein
+the hair|das Haar
+the hairbrush|die Haarbürste
+the hoe|die Hacke
+the harbor|der Hafen
+the hail|der Hagel
+the rooster|der Hahn
+the half-brother|der Halbbruder
+the half-sister|die Halbschwester
+the neck|der Hals
+the stop|die Haltestelle
+the hammer|der Hammer
+the hand|die Hand
+the trade|der Handel
+the glove|der Handshuh
+the handbag|die Handtasche
+the towel|das Handtuch
+the hazelnut|die Haselnuss
+the capital|die Haupstadt
+the main clause|der Hauptsatz
+the house|das Haus
+the budget|der Haushalt
+the household appliance|das Haushaltsgerät
+the house number|die Hausnummer
+the pets|die Haustiere
+the skin|die Haut
+the pike|der Hecht
+the magazine|das Heft
+the blueberry|die Heidelbeere
+the home|das Heim
+the home|die Heimat
+the homesickness|das Heimweh
+the marriage|die Heirat
+the marriage certificate|die Heiratsurkunde
+the matchmaker|die Heiratsvermittlung
+the heater|der Heizstrahler
+the heating|die Heizung
+the brightness|die Helle
+the shirt|das Hemd
+the hostel|die Herberge
+the autumn|der Herbst
+the stove|der Herd
+the origin|die Herkunft
+the lord|der Herr
+the heart|das Herz
+the hay|das Heu
+the witch|die Hexe
+the raspberry|die Himbeere
+the sky|das Himmel
+the obstacle|das Hindernis
+the hobby|das Hobby
+the planer|der Hobel
+the pride|der Hochmut
+the wedding|die Hochzeit
+the honeymoon|die Hochzeitsreise
+the stool|der Hocker
+the court|der Hof
+the hope|die Hoffnung
+the courtesy|die Höflichkeit
+the hell|die Hölle
+the wood|das Holz
+the mallet|der Holzhammer
+the honey|der Honig
+the fee|das Honorar
+the pants|die Hose
+the hotel|das Hotel
+the helicopter|der Hubschrauber
+the hip|die Hüfte
+the dog|der Hund
+the cough|der Husten
+the hat|der Hut
+the takeaway|der Imbiss
+the information office|das Informationsbüro
+the infusion|die Infusion
+the content|der Inhalt
+the island|die Insel
+the institution|die Institution
+the instrument|das Instrument
+the interest|das Interesse
+the boarding school|das Internat
+the year|das Jahr
+january|der Januar
+the jeans|die Jeans
+the job|der Job
+the youth hostel|die Jugendherberge
+july|der Juli
+the boy|der Junge
+The bachelor|der Junggeselle
+the bachelor party|der Junggeselleabend
+the bachelorette|die Junggesellin
+june|der Juni
+the jury|die Jury
+the jewelry store|das Juweliergeschäft
+the cage|der Käfig 
+the quay|der Kai
+the cockroach|der Kakerlak
+the cold|die Kälte
+the camera|die Kamera
+the fireplace|der Kamin
+the comb|der Kamm
+the pot|die Kanne
+the cap|die Kappe
+the capsule|die Kapsel
+the diamonds|das Karo
+the cart|die Karre
+the career|die Karriere
+the map|die Karte
+the potato|die Kartoffel
+the carton|der Karton
+the cheese|der Käse
+the box|der Kasten
+the deposit|die Kaution
+the hairpin|die Kehre 
+the cellar|der Keller
+the candle|die Kerze
+the mileage allowance|das Kilometergeld
+the child|das Kind
+the playground|der Kinderspielplatz
+the chin|das Kinn
+the cinema|das Kino
+the kiosk|der Kiosk
+the church|die Kirche
+the cherry|die Kirsche
+the box|die Kiste
+the clothes|die klamotte
+the clarinet|die Klarinette
+the piano|das Klavier
+the dress|das Kleid
+the hanger|der Kleiderbügel
+the clothes rail|die Kleiderstange
+the clothes|die Kleidung
+the little finger|der Kleiner Finger
+the toilet seat|die Klobrille
+the toilet brush|die Klobürste
+the toilet paper|das Klopapier
+the toilet paper holder|der Klopapierhalter
+the knee|das Knie
+the bone|der Knochen
+the cookbook|das Kochbuch
+the suitcase|der Koffer
+the suitcase|der Koffer
+the portable radio|das Kofferradio
+the coal|die Kohle
+the comment|der Kommentar
+the pastry shop|die Konditorei
+the condom|das Kondom
+the competitor|der Konkurrent
+the competition|die Konkurrenz
+the contact|der Kontakt
+the concert|das Konzert
+the head|der Kopf
+the headache|das Kopfweh
+the cork|der Korken
+the corkscrew|der Korkenzieher
+the grain|das Korn
+the body part|der Körperteil
+the nickname|der Kosename
+the cosmetics|die Kosmetik
+the costume|das Kostüm
+the rumpus|der Krach
+the force|die Kraft
+the hospital|das Krankenhaus
+the ambulance|der Krankenwagen
+the disease|die Krankheit
+the tie|die Krawatte
+the circle|der Kreis
+the crossing|die Kreuzung
+the crusade|der Kreuzzug
+the war|der Krieg
+the crib|die Krippe
+The nativity figures|die Krippenfigur
+the crutch|die Krücke
+the kitchen|die Küche
+the cake|der Kuchen
+the ball|die Kugel
+the refrigerator|der Kühlschrank
+the sorrow|der Kummer
+the dome|die Kuppel
+the courier|der Kurier
+the course (class)|der Kurs
+the curve|die Kurve
+the coast|die Küste
+the shop|der Laden
+the lamb|das Lamm
+the lamp|die Lampe
+the country|das Land
+the state government|die Landesregierung
+the country's capital|die Landhauptstadt
+the landscape|die Landschaft
+the agriculture|die Landwirtschaft
+the lobes|der Lappen
+the noise|der Lärm
+the truck|der Lastwagen
+the lantern|die Laterne
+the slats|der Lattenrost
+the leaves|das Laub
+the volume|der Laut
+the speaker|das Lautsprecher
+the food|das Lebensmittel
+the liver|die Leber
+the gingerbread|der Lebkuchen
+the doctrine|die Lehre
+the apprentice|der Lehrling
+the athletics|die Leichtathletik
+the passion|die Leidenschaft
+the editorial|der Leitartikel
+the ladder|die Leiter
+the line|die Leitung
+the lighthouse|der Leuchtturm
+the light|das Licht
+the lovesickness|der Liebeskummer
+the song|das Lied
+the lipstick|der Lippenstift
+the truck |der LKW – Lastkraftwagen
+the hole|das Loch
+the spoon|der Löffel
+the locomotive|die Lok | Lokmotive
+the ransom|das Lösegeld
+the solution|die Lösung
+the gap|die Lücke
+the air|die Luft
+the lie|die Lüge
+the lung|die Lunge
+the girl|das Mädchen
+the stomach|der Magen
+may|der Mai
+the mandarins|die Mandarine
+the almond|die Mandel
+the lack|der Mangel
+the man|der Mann
+the jacket|der Mantel
+the fairytale|das Märchen
+the daisy|die Margerite
+the brand|die Marke
+march|der März
+the measure|das Maß
+the massage|die Massage
+the mattress|die Matratze
+the wall|die Mauer
+the mouse|die Maus
+the sea|das Meer
+the fair|die Messe
+the knife|das Messer
+The butchers|die Metzgerei
+the lease|der Mietvertrag
+the milk|die Milch
+the compassion|das Mitleid
+the midday|der Mittag
+the lunch|das Mittagessen
+the nap|der Mittagschlaf
+the means|das Mittel
+the middle finger|der Mittel Finger
+the middle age|das Mitteralter
+the midnight|die Mitternacht
+wednesday|der Mittwoch
+the fashion shop|das Modegeschäft
+the possibility|die Möglichkeit
+the moment|der Moment
+the month|der Monat
+the moon|der Mond
+the monitor|der Monitor
+monday|der Montag
+the morning|der Morgen
+the motive|das Motiv
+the scooter|der Motoroller
+the motorcycle|der Motorrad
+the trash|der Mülleimer
+the mouth|der Mund
+the museum|das Museum
+the music|die Musik
+the muscle|der Muskel
+the pattern|das Muster
+the mother|die Mutter
+the cap|die Mütze
+the afternoon|der Nachmittag
+the message|der Nachricht
+the night|die Nacht
+the disadvantage|der Nachteil
+the dessert|der Nachtisch
+the neck|der Nacken
+the needle|die Nadel
+the nail|der Nagel
+the proximity|die Nähe
+the name|der Name
+the nose|die Nase
+the fog|der Nebel
+the part-time job|der Nebenjob
+the subordinate clause|der Nebensatz
+the nephew|der Neffe
+the envy|der Neid
+the new building|der Neubau
+the niece|die Nichte
+the precipitate|der Niederschlag
+the kidney|die Niere
+the emergency|die Not
+the notebook|das Notebook
+the emergency|der Notfall
+the need|die Notwendigkeit
+november|der November
+the number|die Nummer
+the nut|die Nuss
+the object|das Objekt
+the fruit|das Obst
+the fruit shop|das Obstgeschäft
+the ox|der Ochse
+the oven|der Ofen
+the ear|das Ohr
+the ecology|die Ökologie
+the economy|die Ökonomie
+october|der Oktober
+the oil|das öl
+the uncle|der Onkel
+the victim|das Opfer
+the place|der Ort
+the outfit|das Outfit
+the pair|das Paar
+the grapefruit|die Pampelmuse
+the paper|das Papier
+the papyrus|der Papyrus
+the perfumery|die Parfümerie
+the park|der Park
+the parking lot|der Parkplatz
+the parlmament|das Parlmament
+the party|die Party
+the lunchbox|das Pausenbrot
+the misfortune|das Pech
+the embarrassment|die Peinlichkeit
+the board|die Pension
+the personality|die Persönlichkeit
+the plague|die Pest
+the pepper|der Pfeffer
+the horse|das Pferd
+the horse race|das Pferderennen
+the whistle|der Pfiff 
+the patch|das Pflaster
+the plum|die Pflaume
+the care|die Pflege
+the pound|das Pfund
+the piano|das Piano
+the pimple|der Pickel
+the pinacoteca|die Pinakothek
+the poster|das Plakat
+the plan|der Plan
+the plate|die Platte
+the record player|der Plattenspieler
+the place|der Platz
+the ass|der Po(po)
+the police|die Polizei
+The police station|die Polizeistation
+the post|die Post
+the postcode|die Postleitzahl
+the prefix|das Präfix
+the practice|die Praxis
+the prestige|das Prestige
+the sample|die Probe
+the probationary period|die Probezeit
+the program|das Programm
+the protection|der Protektion
+the commission|die Provision
+the psyche|die Psyche
+the sweater|der Pullover
+the pulse|der Puls 
+the point|der Punkt
+the pupil|die Pupille
+the pajamas|der Pyjama
+the nonsense|der Quatsch
+the wheel|das Rad
+the radishes|das Radieschen
+the edge|der Rand
+the shaver|der Rasierapparat
+the aftershave|das Rasierwasser
+the suggestion|der Rat
+the town hall|das Rathaus
+the advice|der Ratschlag
+the riddle|das Rätsel
+the predator|das Raubtier
+the space|der Raum
+the reality|die Realität
+the computer|der Rechner
+the redaction|die Redaktion
+the speech|die Rede
+the shelf|das Regal
+the rule|die Regel
+the rain|der Regen
+the raincoat|der Regenmantel
+the umbrella|der Regenschirm
+the government|die Regierung
+the maturity|die Reife
+the series|die Reihe
+the townhouse|das Reihenhaus
+the journey|die Reise
+the travel agency|das Reisebüro
+the pension|die Rente
+the reparation|die Reparatur
+the report|die Reportage
+the republic|die Republik
+the residence|die Residenz
+the restaurant|das Restaurant
+the direction|die Richtung
+the giant|der Riese
+the ring finger|der Ring Finger
+the knight|der Ritter
+the seal|die Robbe
+the rock|der Rock
+the pipe|das Rohr
+the shutter|der Rolladen
+the role|die Rolle
+the scooter|der Roller
+the wheelchair|der Rollstuhl
+the rose|die Rose
+the turnip|die Rübe
+the heading (newspaper)|die Rubrik
+the back|der Rücken
+the feedback|die Rückmeldung
+the backpack|der Rucksack
+the consideration|die Rücksicht
+the rest|die Ruhe
+the retirement|der Ruhestand
+the armor|die Rüstung
+the sword|der Säbel
+the thing|die Sache
+the saw|die Säge
+the salad|der Salat
+the ointment|die Salbe
+saturday|der Samtag
+the sand|der Sand
+the sandpit|die Sandkasten
+the sentence|der Satz
+the mammals|der Säugetier
+the scanner|der Scanner
+the pest|der Schädling
+the sheep|das Schaf
+the sound|der Schall
+the record|die Schallplatte
+the switch|der Schalter
+the showers|der Schauer
+the blade|die Schaufel
+the mannequin|die Schaufensterpuppe
+the rocking chair|der Schaukelstuhl
+the sparkling wine|der Schaumwein
+the scissors|die Schere
+the layer|der Schicht
+the shooting gallery|die Schießbude
+the ship|das Schiff
+the mold|der Schimmel
+the ham|der Schinken
+the screen|der Schirm
+the battle|die Schlacht
+the insomnia|die Schlaflosigkeit
+the impact|der Schlag
+the racket|der Schläger
+the drums|das Schlagzeug
+the snake|die Schlange
+the castle|das Schloss
+the dirt|der Schmutz
+the common cold|der Schnupfen
+the cabinet|der Schrank
+the screw|die Schraub
+the allotment|der Schrebergarten
+the fright|der Schreck
+the stationer|das Schreibwarengeschäft
+the font|die Schrift
+the step|der Schritt
+the school|die Schule
+the pupils|der Schüler
+the compulsory education|die Schulpflicht
+the shoulder|die Schulter
+the protection|der Schutz
+brother in law|der Schwager
+the sister in law|die Schwägerin
+the sweat|der Schweiß
+the sword|das Schwert
+the sister|die Schwester
+the swimming pool|das Schwimmbad
+the gay person|der Schwule
+the sultriness|die Schwüle
+the lake|der See
+the seasickness|die Seekrankheit
+the soul|die Seele
+the longing|die Sehnsucht
+the soap|die Seife
+the rope|das Seil
+the cableway|die Seilbahn
+the champagne|der Sekt
+the seminar|das Seminar
+september|der September
+the napkin|die Serviette
+the chair|der Sessel
+the shampoo|das Shampoo
+the shoe|der Shuh
+the heel|der Shuhabsatz
+the syllable|die Silbe
+the seat|der Sitz
+the skateboard|das Skateboard
+the ski|der Ski
+the slip|der Slip
+the sock|die Socke
+the sofa|das Sofa
+the son|der Sohn
+the summer|der Sommer
+the sun|die Sonne
+the sunrise|der Sonnenaufgang
+the sunset|der Sonnenuntergang
+sunday|der Sonntag
+the spatula|der Spachtel
+the tensioning|der Span
+the walk|der Spaziergang
+the mirror|der Spiegel
+the game|das Spiel
+the player|der Spieler
+the philistines|der Spießer
+the language|die Sprache
+the syringe|die Spritze
+the jump|der Sprung 
+the flushing|die Spülung
+the state|der Staat
+the city government|die Staatstadt
+the stage|das Stadium
+the city|die Stadt
+the city park|der Stadtpark
+the district|der Stadtteil
+the strain|der Stamm
+the family tree|der Stammbaum
+the state|der Stand
+the stator|der Ständer
+the registrar's office|das Standesamt
+the statue|die Statue
+the vacuum cleaner|der Staubsauger
+the socket|die Steckdose
+the plug|der Stecker
+the ridge|der Steg
+the climb|der Steig
+the place|die Stelle
+the pitch|der Stellplatz
+the position|die Stellung
+the stereotype|das Stereotyp
+the star|der Stern
+the stethoscope|das Stethoskop
+the control|die Steuer
+the stepfather|der Stief
+the boots|der Stiefel
+the stepmother|die Stiefmutter
+the stepfather|der Stiefvater
+the pin|der Stift
+the style|der Stil
+the mood|die Stimmung
+the end|die Stirn
+the impact|der Stoß
+the beam|der Strahl
+the beach|der Strand
+the road|die Straße
+the tram|die Straßenbahn
+the ostrich|der Strauß
+the route|die Strecke
+the dispute|der Streit
+the stress|der Stress
+the verse|die Strophe
+the sock|der Strumpf
+the pantyhose|die Strumpfhose
+the piece|das Stück
+the study|das Studium
+the chair|der Stuhl
+the hour|die Stunde
+the storm|das Sturm
+the addiction|die Sucht
+the addiction substance|das Suchtmittel
+the sin|die Sünde
+the scapegoat|der Sündenbock
+the surfboard|das Surfbrett
+the sweetness|die Süßigkeit
+the symbol|das Symbol
+the synonym|das Synonym
+the t-Shirt|das T-shirt
+the tobacconist|der Tabakladen
+the tablet|das Tablett
+the tablet|die Tablette
+the day|der Tag
+the gas station|die Tankestelle
+the aunt|die Tante
+the bag|die Tasche
+the cup|die Tasse
+the keyboard|die Tastatur
+the key|die Taste
+the perpetrator|der Täter
+the baptism|die Taufe
+the taxi|das Taxi
+the team|das Team
+the pond|der Teich
+the part|der Teil
+the complexion|der Teint
+the telephone number|die Telefonnummer
+the temperament|das Temperament
+the temperature|die Temperatur
+the tennis racket|der Tennisschläger
+the carpet|der Teppich
+the appointment|der Termin
+the text|der Text
+the theater|das Theater
+the thermometer|das Thermometer
+the animal|das Tier
+the animal protection|der Tierschutz
+the tablet|der Tisch
+the daughter|die Tochter
+the tomato|die Tomate
+the raffle|die Tombola
+the tone|der Ton
+the pot|der Topf
+the turism|der Tourismus
+the tradition|die Tradition
+the inertia|der Trägheit
+the tractor|der Traktor
+the mourning|die Trauer
+the dream|der Traum
+the wedding|die Trauung
+the meeting|das Treffen
+the separation|die Trennung
+the stairs|die Treppe
+the counter|der Tresen
+the loyalty|die Treue
+the jersey|das Trikot
+the trumpet|die Trompete
+the drops|der Tropfen
+the truffle|die Trüffel
+the chest|die Truhe
+the trump|der Trumpf
+the cloth|das Tuch
+the tulip|die Tulpe
+the door|die Tür
+the tower|der Turm
+the subway station|die U-Bahn-Station
+the headline|die Überschrift
+the translation|die Übersetzung
+the exaggeration|die Übertreibung
+the exercise|die Übung
+the shore|das Ufer
+the shore|das Ufer
+the clock|die Uhr
+the accident|der Unfall
+the survey|die Umfrage
+the dealing|der Umgang
+the environment|die Umgebung
+the cape|der Umhang
+the dressing room|die Umkleidekabine
+the umlaut|der Umlaut
+the clasped|der Umschlang
+the fact|der Umstand
+the environment|die Umwelt
+the move|der Umzug
+the misfortune|das Unglück
+the uniform|die Uniform
+the university|die Universität
+the maintenance|der Unterhalt
+the undershirt|das Unterhemd
+the underpants|die Unterhose
+the accommodation|die Unterkunft
+the lessons|der Unterricht 
+the lessons|der Unterricht 
+the difference|der Unterschied
+the signature|die Unterschrift
+the support|die Unterstützung
+the deed|die Urkunde
+the holidays|der Urlaub
+the judgment|das Urteil
+the USB Stick|der Usb-stick
+the father|der Vater
+the vein infusion|die Veneninfusion
+the appointment|die Verabredung
+the processing|die Verarbeitung
+the event|der Verastaltung
+the association|der Verband
+the first aid kit|der Verbandskasten
+the prohibition|das Verbot
+combustion|die Verbrennung
+the composite|der Verbund
+of merit|der Verdienst
+the association|der Verein
+the past|die Vergangenheit
+the ratio|das Verhältnis
+the ratio|das Verhältnis
+the traffic|der Verkehr
+the transportation way|das Verkehrsmittel
+the publisher|der Verlag
+the injury|die Verletzung
+the mediation|die Vermittlung
+the presumption|die Vermutung
+the waste|die Verschwendung
+the understanding|das Verständnis
+the amplifier|der Verstärker
+the contract|der Vertrag
+the cattle|das Vieh
+the bird|der Vogel
+the birdcage|der Vogelkäfig
+the gluttony|die Völlerei
+the requirement|die Voraussetzung
+the right of way|die Vorfahrt
+the curtain|der Vorhang
+the lecture|die Vorlesung
+the morning|der Vormittag
+the suburbs|der Vorort
+the proposal|der Vorschlag
+the prefix|die Vorsilbe
+the idea|die Vorstellung
+the interview|der Vorstellungsgespräch
+the advantage|der Vorteil
+the prejudice|das Vorurteil
+the growth|das Wachstum
+the truth|die Wahrheit
+the landmark|das Wahrzeichen
+the forest|der Wald
+the waltz|der Walzer
+the wall|die Wand
+the heat|die Wärme
+the hot-water bottle|die Wärmflasche
+the sink|das Waschbecken
+the laundry|die Wäsche
+the clothes peg|die Wäscheklammer
+the washcloth|der Waschlappen
+the washing machine|die Waschmaschine
+the tap|der Wasserhahn
+the alarm clock|der Wecker
+the way|der Weg
+the woes|das Weh
+the weir|das Wehr
+the woman|das Weib
+the advertising|die Werbung
+the work|das Werk
+the workshop|die Werkstatt
+the tool|das Werkzeug
+the competition|der Wettbewerb
+the bet|die Wette
+the shared flat|die WG | Wohngemeinschaft
+the resistance|der Widerstand
+the meadow|die Wiese
+the will|der Wille
+the wind|der Wind
+the winter|der Winter
+the economy|die Wirtschaft
+the business school|die Wirtschaftschule
+the week|die Woche
+the well-being|das Wohlbefinden
+the dorm|das Wohnheim
+the apartment|die Wohnung
+the living room|das Wohnzimmer
+the cloud|die Wolke
+the skyscraper|der Wolkenkratzen
+the lust|die Wollust
+the word|das Wort
+the dictionary|das Wörterbuch
+the rummage|der Wühltisch
+the desire|der Wunsch
+the cube|der Würfel
+the sausage|die Wurst
+the number|die Zahl
+the tooth|der Zahn
+the toothbrush|die Zahnbürste
+toothpaste|die Zahnpasta
+The Tumbler|der Zahnputzbecher
+the toothache|das Zahnweh
+the forceps|die Zange
+the toe|die Zehe
+the index finger|der Zeigen Finger
+the line|die Zeile
+the time|die Zeit
+the magazine|die Zeitschrift
+the cell|die Zelle
+the cement|der Zement
+the center|das Zentrum
+the destruction|die Zerstörbung
+the witness|der Zeuge
+the testimony|das Zeugnis
+the brick|der Ziegelstein
+the room|das Zimmer
+the lemon|die Zitrone
+the civil service|der Zivildienst
+the zone|die Zone
+the braid|der Zopf
+the anger|der Zorn
+the cotton candy|die Zuckerwatte
+the train|der Zug
+the home|das Zuhause
+the future|die Zukunft
+the tongue|die Zunge
+the commitment|die Zusage
+the context|der Zusammenhang
+the state|der Zustand
+the purpose|der Zweck
+the branch|der Zweig
+the twist|der Zwirn

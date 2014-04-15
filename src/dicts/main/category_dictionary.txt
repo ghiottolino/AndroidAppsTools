@@ -1,0 +1,521 @@
+the bear|der Bär|animals
+the beaver|der Biber|animals
+the cat|die Katze|animals
+the chimpanzee|der Schimpanse|animals
+the deer|das Reh|animals
+the dog|der Hund|animals
+the elephant|der Elefant|animals
+the fish|der Fisch|animals
+the fox|der Fuchs|animals
+the goat|die Ziege|animals
+the gorilla|der Gorilla|animals
+the hippopotamus|das Nilpferd|animals
+the horse|das Pferd|animals
+the hyena|die Hyäne|animals
+the kangaroo|das Känguru|animals
+the kitten|das Kätzchen|animals
+the leopard|der Leopard|animals
+the llama|das Lama|animals
+the monkey|der Affe|animals
+the mouse|die Maus|animals
+the panda|der Panda|animals
+the penguin|der Pinguin|animals
+the pet|das Haustier|animals
+the puppy|der Welpe|animals
+the rabbit|das Kaninchen|animals
+the rat|die Ratte|animals
+the rhino|das Nashorn|animals
+the sheep|das Schaf|animals
+the squirrel|das Eichhörnchen|animals
+the tiger|der Tiger|animals
+the whale|der Wal|animals
+the wolf|der Wolf|animals
+the zebra|das Zebra|animals
+the blender|der Mixer|tools
+the dishwasher|die Geschirrspülmaschine|tools
+the dryer|der Wäschetrockner|tools
+the freezer|der Gefrierschrank|tools
+the fridge|der Kühlschrank|tools
+the iron|das Bügeleisen|tools
+the microwave|der Mikrowellenherd|tools
+the oven|der Backofen|tools
+the toaster|der Toaster|tools
+the washer|die Waschmaschine|tools
+the water heater|der Boiler|tools
+the balloons|die Luftballons|at the party
+the cake|die Torte|at the party
+the frosting|die Glasur|at the party
+the ice|der Eiswürfel|at the party
+the ice cream|das Eis|at the party
+the presents|die Geschenke|at the party
+the soda|die Limonade|at the party
+the sand|der Sand|at the beach
+the sand castle|die Sandburg|at the beach
+the seaweed|der Tang|at the beach
+the shore|der Strand|at the beach
+the sunglasses|die Sonnenbrille|at the beach
+the sunscreen|das Sonnenschutzmittel|at the beach
+the swimsuit|der Badeanzug|at the beach
+the tide|die Gezeiten|at the beach
+the towel|das Handtuch|at the beach
+the wave|die Welle|at the beach
+the bag|die Tragetasche|shopping
+the restroom|die Toilette|shopping
+the bench|die Bank|shopping
+the clearance sale|der Räumungsverkauf|shopping
+the drinking fountain|der Trinkwasserbrunnen|shopping
+the restaurant|das Restaurant|shopping
+the sale|der Ausverkauf|shopping
+the store|das Geschäft|shopping
+the bag|die Tragetasche|shopping
+the cans|die Konservendosen|shopping
+the cashier|die Kassiererin|shopping
+the cash register|die Kasse|shopping
+the dairy department|das Milchprodukt|shopping
+the frozen foods department|die Tiefkühlkost|shopping
+the grocery store|das Lebensmittelgeschäft|shopping
+the receipt|der Kassenzettel|shopping
+the account|das Konto|money
+the account number|die Kontonummer|money
+the bank|die Bank|money
+the check|der Scheck|money
+the checking account|das Girokonto|money
+the deposit|die Einzahlung|money
+the finances|die Finanzen|money
+the interest|die Zinsen|money
+the money|das Geld|money
+the savings account|das Sparkonto|money
+the teller|die Kassiererin|money
+the vault|der Tresor|money
+the withdrawal|die Abhebung|money
+the bathroom|das Badezimmer|bathroom
+the bathtub|die Badewanne|bathroom
+the mirror|der Spiegel|bathroom
+the pipe|die Leitung|bathroom
+the shampoo|das Shampoo|bathroom
+the shower|die Dusche|bathroom
+the sink|das Waschbecken|bathroom
+the soap|die Seife|bathroom
+the toilet|die Toilette|bathroom
+the alarm clock|der Wecker|bedroom
+the bed|das Bett|bedroom
+the bedroom|das Schlafzimmer|bedroom
+the blanket|die Bettdecke|bedroom
+the ceiling|die Zimmerdecke|bedroom
+the closet|der Einbauschrank|bedroom
+the dresser|die Frisierkommode|bedroom
+the hanger|der Kleiderbügel|bedroom
+the lamp|die Lampe|bedroom
+the nightstand|der Nachttisch|bedroom
+the pillow|das Kissen|bedroom
+the sheets|das Laken|bedroom
+the wall|die Wand|bedroom
+the ankle|der Fußknöchel|body
+the arm|der Arm|body
+the back|der Rücken|body
+the belly|der Bauch|body
+the brain|das Gehirn|body
+the calf|die Wade|body
+the chest|die Brust|body
+the chin|das Kinn|body
+the ear|das Ohr|body
+the elbow|der Ellbogen|body
+the eye|das Auge|body
+the eyebrow|die Augenbraue|body
+the eyelash|die Wimper|body
+the eyelid|das Augenlid|body
+the finger|der Finger|body
+the fingernail|der Fingernagel|body
+the foot|der Fuß|body
+the forehead|die Stirn|body
+the mind|der Verstand|body
+the stomach|der Magen|body
+the gum|das Zahnfleisch|body
+the hair|das Haar|body
+the hand|die Hand|body
+the head|der Kopf|body
+the heel|die Ferse|body
+the knee|das Knie|body
+the leg|das Bein|body
+the lips|die Lippen|body
+the mouth|der Mund|body
+the neck|der Hals|body
+the nose|die Nase|body
+the rib|die Rippe|body
+the teeth|der Zahn|body
+the thigh|der Schenkel|body
+the throat|die Kehle|body
+the toe|die Zehe|body
+the toenail|der Zehennagel|body
+the tongue|die Zunge|body
+the wrist|das Handgelenk|body
+the automatic transmission|das Automatikgetriebe|transportation
+the axle|die Achse|transportation
+the brakes|die Bremsen|transportation
+the bumper|die Stoßstange|transportation
+the driver|der Fahrer|transportation
+the engine|der Motor|transportation
+first gear|erster Gang|transportation
+the gas|das Benzin|transportation
+the gas pedal|das Gaspedal|transportation
+the gas tank|der Benzintank|transportation
+the gear shift|der Schaltknüppel|transportation
+the headlights|die Scheinwerfer|transportation
+the hood|die Motorhaube|transportation
+the horn|die Hupe|transportation
+the jack|der Wagenheber|transportation
+the manual transmission|das Schaltgetriebe|transportation
+the rearview mirror|der Rückspiegel|transportation
+the seat belt|der Sicherheitsgurt|transportation
+the spare tire|der Ersatzreifen|transportation
+the steering wheel|das Lenkrad|transportation
+the sun roof|das Schiebedach|transportation
+the taillights|das Rücklicht|transportation
+the tire|der Reifen|transportation
+the trunk|der Kofferraum|transportation
+the turn signal|der Blinker|transportation
+the visor|die Sonnenblende|transportation
+the wheel|das Lenkrad|transportation
+the window|das Fenster|transportation
+the windshield|die Windschutzscheibe|transportation
+the wipers|die Scheibenwischer|transportation
+the bleach|die Bleiche|house
+the broom|der Besen|house
+the detergent|das Waschmittel|house
+the mop|der Mopp|house
+the paper towels|die Küchenrolle|house
+the rag|der Putzlappen|house
+the sponge|der Schwamm|house
+the towel|das Handtuch|house
+the vacuum|der Staubsauger|house
+the ball cap|die Baseball-Cap|clothes
+the belt|der Gürtel|clothes
+the clothes|die Kleider|clothes
+the coat|der Mantel|clothes
+the cotton|die Baumwolle|clothes
+the dress|das Kleid|clothes
+the gloves|die Handschuhe|clothes
+the hat|der Hut|clothes
+the jacket|die Jacke|clothes
+the pajamas|der Schlafanzug|clothes
+the pants|die Hose|clothes
+the purse|die Handtasche|clothes
+the sandals|die Sandalen|clothes
+the shirts|die Hemden|clothes
+the shoelace|die Schnürsenkel|clothes
+the shoes|die Schnürsenkel|clothes
+the skirt|der Rock|clothes
+the socks|die Socken|clothes
+the suit|der Anzug|clothes
+the sweater|der Pullover|clothes
+the swimming suit|der Badeanzug|clothes
+the tie|die Krawatte|clothes
+the velcro|der Klettverschluss|clothes
+the zipper|der Reißverschluss|clothes
+the aunt|die Tante|family
+the boyfriend|der Freund|family
+the brother|der Bruder|family
+the brother-in-law|der Schwager|family
+the cousins|die Cousinen|family
+the dad|der Papa|family
+the daughter|die Tochter|family
+the daughter-in-law|die Schwiegertochter|family
+the family|die Familie|family
+the father|der Vater|family
+the father-in-law|der Schwiegervater|family
+the fiancé|der Verlobte|family
+the friend|der Freund|family
+the girlfriend|die Freundin|family
+the grandma|die Großmutter|family
+the grandpa|der Großvater|family
+the grandparents|die Großeltern|family
+the husband|der Ehemann|family
+the mom|die Mama|family
+the mother|die Mutter|family
+the mother-in-law|die Schwiegermutter|family
+the nephew|der Neffe|family
+the niece|die Nichte|family
+the relationships|die Verwandtschaftsverhältnisse|family
+the sister|die Schwester|family
+the sister-in-law|die Schwägerin|family
+the son|der Sohn|family
+the son-in-law|der Schwiegersohn|family
+the uncle|der Onkel|family
+the wife|die Ehefrau|family
+the appetizer|die Vorspeise|food
+the avocado|die Avocado|food
+the beef|das Rindfleisch|food
+the breakfast|das Frühstück|food
+the cauliflower|der Blumenkohl|food
+the celery|der Sellerie|food
+the cheese|der Käse|food
+the chicken|das Hühnchen|food
+the dessert|der Nachtisch|food
+the dinner|das Abendessen|food
+the egg|das Ei|food
+the fish (cooked)|das Fischgericht|food
+the food|das Nahrungsmittel|food
+the french fries|die Pommes Frites|food
+the hamburger|der Hamburger|food
+the hotdog|der Hotdog|food
+the lettuce|der Blattsalat|food
+the lunch|das Mittagessen|food
+the main dish|das Hauptgericht|food
+the milk|die Milch|food
+the pork|das Schweinefleisch|food
+the potatoes|die Kartoffel|food
+the salad|der Salat|food
+the sandwich|das Sandwich|food
+the soup|die Suppe|food
+the sugar|der Zucker|food
+the turkey|die Pute|food
+the water|das Wasser|food
+the apricot|die Aprikose|food
+the banana|die Banane|food
+the beans|die Bohne|food
+the beet|die rote Bete|food
+the butter|die Butter|food
+the candy|die Bonbons|food
+the flour|das Mehl|food
+the grape|die Traube|food
+the honey|der Honig|food
+the jam|die Marmelade|food
+the jelly|das Gelee|food
+the juice|der Saft|food
+the ketchup|das Ketchup|food
+the lemon|die Zitrone|food
+the lime|die Limone|food
+the mayonnaise|die Mayonnaise|food
+the mustard|der Senf|food
+the nut|die Nuss|food
+the peach|der Pfirsich|food
+the peanut|die Erdnuss|food
+the peanut butter|die Erdnussbutter|food
+the pear|die Birne|food
+the pineapple|die Ananas|food
+the popcorn|das Popcorn|food
+the radish|der Rettich|food
+the raisin|die Rosine|food
+the tomato|die Tomate|food
+the armchair|der Sessel|house
+the bed|das Bett|house
+the chair|der Stuhl|house
+the desk|der Schreibtisch|house
+the furniture|die Möbel|house
+the garbage can|der Mülleimer|house
+the piano|das Klavier|house
+the sofa|das Sofa|house
+the table|der Tisch|house
+the ballot|der Stimmzettel|government
+the congress|der Kongress|government
+the congressman|der Kongressabgeordnete|government
+the democrat|der Demokrat|government
+the election|die Wahl|government
+the governor|der Gouverneur|government
+the house of representatives|das Repräsentantenhaus|government
+the king|der König|government
+the mayor|der Bürgermeister|government
+the parliament|das Parlament|government
+the party (political party)|die Partei|government
+the president|der Präsident|government
+the prime minister|der Ministerpräsident|government
+the republican|der Republikaner|government
+the senate|der Senat|government
+the senator|der Senator|government
+the vote|die Abstimmung|government
+the bowl|die Schüssel|kitchen
+the cabinet|der Schrank|kitchen
+the drain|der Abfluss|kitchen
+the freezer|der Gefrierschrank|kitchen
+the fridge|der Kühlschrank|kitchen
+the frying pan|die Bratpfanne|kitchen
+the kitchen|die Küche|kitchen
+the lid|der Deckel|kitchen
+the oven|der Backofen|kitchen
+the sauce pan|der Kochtopf|kitchen
+the stove|der Herd|kitchen
+the carpet|der Teppich|living room
+the fire place|der Kamin|living room
+the living room|das Wohnzimmer|living room
+the painting|das Gemälde|living room
+the recliner|der Lehnstuhl|living room
+the shelf|das Regal|living room
+the sofa|das Sofa|living room
+the staircase|das Treppenhaus|living room
+the tv|der Fernseher|living room
+the vase|die Vase|living room
+the attack|der Angriff|military
+the fighter jet|der Kampfjet|military
+the cease fire|die Feuerpause|military
+the commander|der Befehlshaber|military
+the army|das Heer|military
+the general|der General|military
+the helicopter|der Hubschrauber|military
+the casualty|das Opfer|military
+the missile|die Rakete|military
+the soldier|der Soldat|military
+the tank|der Panzer|military
+the battle|die Schlacht|military
+the bomb|die Bombe|military
+the explosion|die Explosion|military
+the airforce|die Luftwaffe|military
+the grenade|die Granate|military
+the war|der Krieg|military
+the invasion|die Invasion|military
+the navy|die Marine|military
+the peace|der Friede|military
+the weapons|die Waffen|military
+the weapons of mass destruction|die Massenvernichtungswaffen|military
+the conductor|der Dirigent|music
+the drums|das Schlagzeug|music
+the genres|die Musikgattung|music
+the guitar|die Gitarre|music
+the lyrics|der Text|music
+the organ|die Orgel|music
+the piano|das Klavier|music
+the trumpet|die Trompete|music
+the cliff|das Kliff|nature
+the flower|die Blume|nature
+the garden / the yard|der Garten|nature
+the garden (vegetable)|der Gemüsegarten|nature
+the grass (lawn)|der Rasen|nature
+the herb|das Gewürzkraut|nature
+the lake|der See|nature
+the mountain range|die Bergkette|nature
+the mountains|das Gebirge|nature
+the ocean|das Meer|nature
+the plant|die Pflanze|nature
+the river|der Fluss|nature
+the sea|die See|nature
+the shore|der Strand|nature
+the soil|das Erdreich|nature
+the tree|der Baum|nature
+the waterfalls|der Wasserfall|nature
+the weed|das Unkraut|nature
+the brick|der Backstein|house
+the bush|der Busch|house
+the chimney|der Schornstein|house
+the door|die Tür|house
+the driveway|die Zufahrt|house
+the garage|die Garage|house
+the lawn|der Rasen|house
+outside|draußen|house
+the patio|der Innenhof|house
+the porch|die Veranda|house
+the roof|das Dach|house
+the sidewalk|der Bürgersteig|house
+the wall|die Wand|house
+the window|das Fenster|house
+the bowl|die Schüssel|eating out
+the chair|der Stuhl|eating out
+the check|die Rechnung|eating out
+the cup|die Tasse|eating out
+the fork|die Gabel|eating out
+the knife|das Messer|eating out
+manners|die Tischmanieren|eating out
+the menu|die Speisekarte|eating out
+the napkin|die Serviette|eating out
+the pepper|der Pfeffer|eating out
+the pitcher|die Karaffe|eating out
+the plate|der Teller|eating out
+the salt|das Salz|eating out
+the spoon|der Löffel|eating out
+the waitress|die Bedienung|eating out
+the waiter|die Bedienung|eating out
+the backpack|der Ranzen|at school
+the briefcase|die Aktentasche|at school
+the calculator|der Rechner|at school
+the chair|der Stuhl|at school
+the colored pencil|der Farbstift|at school
+the computer|der Computer|at school
+the crayons|die Malkreide|at school
+the desk|das Pult|at school
+the folder|der Ordner|at school
+the glue|der Klebstoff|at school
+the markers|der Filzstift|at school
+the mechanical pencil|der Drehbleistift|at school
+the notebook|das Notizbuch|at school
+the paper|das Papier|at school
+the pen|der Kugelschreiber|at school
+the pencil|der Bleistift|at school
+the staple|die Heftklammer|at school
+the stapler|der Hefter|at school
+the camera|die Kamera|technology
+the CD|die CD|technology
+the cell phone|das Handy|technology
+the computer|der Computer|technology
+DVD|die DVD|technology
+the e-mail|die E-Mail|technology
+the fax machine|das Faxgerät|technology
+the stereo|die Stereoanlage|technology
+the iPod|der iPod|technology
+the internet|das Internet|technology
+the telephone|das Telefon|technology
+video game|das Videospiel|technology
+the axe|die Axt|tools
+the axle|die Achse|tools
+the bar|die Stange|tools
+the blade|die Klinge|tools
+the cord|die Schnur|tools
+the drill|der Bohrer|tools
+the drill bit|der Bohrmeißel|tools
+the flashlight|die Taschenlampe|tools
+the hammer|der Hammer|tools
+the handle|der Griff|tools
+the knife|das Messer|tools
+the nut (as in nut and bolt)|die Schraubenmutter|tools
+the pliers|die Zange|tools
+the pulley|der Flaschenzug|tools
+the ramp|die Rampe|tools
+the rope|der Strick|tools
+the ruler|das Lineal|tools
+the saw|die Säge|tools
+the screw-driver|der Schraubenzieher|tools
+the tape measure|das Bandmaß|tools
+the tool|das Werkzeug|tools
+the wheel|das Rad|tools
+the wrench|der Schraubenschlüssel|tools
+the airport|der Flughafen|travel
+the baggage|das Gepäck|travel
+the boat|das Boot|travel
+the bus station|der Busbahnhof|travel
+the cable|der Busbahnhof|travel
+the carry on|das Handgepäck|travel
+the check-in|das Einchecken|travel
+the check-out|das Auschecken|travel
+the departure|der Abflug|travel
+the flight|der Flug|travel
+the gate|der Flugsteig|travel
+the hotel|das Hotel|travel
+the kiosk|das Kiosk|travel
+the landing|die Landung|travel
+the line|die Schlange|travel
+the metal detector|der Metalldetektor|travel
+the platform|der Schalter|travel
+the runway|die Start- und Landebahn|travel
+the security guard|der Sicherheitsbeamte|travel
+the ship|das Schiff|travel
+the subway|die U-Bahn|travel
+the suitcase|der Koffer|travel
+the takeoff|der Start|travel
+the terminal|das Flughafengebäude|travel
+the ticket|der Flugschein|travel
+the airplane|das Flugzeug|transportation
+the bicycle|das Fahrrad|transportation
+the car|das Auto|transportation
+the helicopter|der Hubschrauber|transportation
+the motorcycle|das Motorrad|transportation
+the taxi|das Taxi|transportation
+the train|die Bahn|transportation
+the truck|der Lastwagen|transportation
+the cloud|die Wolke|weather
+the flood|die Berschwemmung|weather
+the fog|der Nebel|weather
+the humidity|die Luftfeuchtigkeit|weather
+the hurricane|der Orkan|weather
+the rain|der Regen|weather
+the snow|der Schnee|weather
+the sun|die Sonne|weather
+the temperature|die Temperatur|weather
+the thermometer|das Thermometer|weather
+the tornado|der Tornado|weather

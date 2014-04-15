@@ -1,0 +1,4335 @@
+aber
+alles
+alt (älter; älteste)
+alttestmentlich
+aus (+dat)
+d/d Lehrer(in)
+das
+das Blut
+das Evangelium (-lien)
+das Gesetz (-e)
+das Heil
+das Kapitel (-)
+das Kind (-er)
+das Lamm (¨-er)
+das Leben (-)
+das Licht (-er)
+das Volk (¨-er)
+das Wort (¨-er)
+dein (m/n); deine (f)
+der Erlörser (-)
+der Geist (-er)
+der Gott (¨-er)
+der Grieche (-n)
+der Hebräer (-)
+der Jünger (-)
+der Leib (-er)
+der Sohn (¨-e)
+der Vater (ä)
+der Vers (-e)
+der Weg (-e)
+der Zeuge (-n;-n)
+die Bibel (-n)
+die Herde (-n)
+die Liebe
+die Mutter (¨-)
+die Schrift (-en)
+die Tochter (¨-)
+die Tür (-en)
+die Wahrheit
+dritte (r; s)
+du
+dürfen (darf; durfte; hat gedurft)
+eins
+er
+es
+frei
+haben (hat; hatte; hat gehabt)
+heute
+ich
+mein (m/n); meine (f)
+müssen (muß; mußte; hat gemußt)
+neutestamentlich
+nicht
+oder
+sein (ist; war; ist gewesen)
+sein (m/n); seine (f)
+sie
+sollen (soll; sollte; hat gesollt)
+und
+unser (m/n); unsere (f)
+von (+dat)
+wer
+werden (wird; wurde; ist geworden)
+wo
+wollen (will; wollte; hat gewollt)
+das Buch (¨-er)
+das Gebot (-e)
+das Schaf (-e)
+daß
+deiner
+der Bund (¨-e)
+der Christ (-en)
+der Herr (-n; -en)
+der Himmel (-)
+der Jude (-n)
+der Mensch (-en; -en)
+der Messias
+der Prophet (-en)
+dich
+die Erde
+die Gnade
+die Kirche (-n)
+die Lehre (-n)
+die Stimme (-n)
+dies (-er; -e; -es)
+dir
+erst
+euch
+euer (m/n); eure (f)
+evangelisch
+ewig
+geben (gibt; gab; hat gegeben)
+gehen (geht; ging; ist gegangen)
+geliebt
+glauben (glaubt; glaubte; hat geglaubt)
+göttlich
+gross
+halten (hält; hielt; hat gehalten)
+heilig
+hören (hört; hörte; hat gehört)
+ihm
+ihn
+ihnen
+ihr
+ihrer
+kennen (kennt; kannte; hat gekannt)
+kommen (kommt; kam; ist gekommen)
+leben
+letzte (r;s)
+lieb haben
+lieben (liebt; liebte; hat geliebt)
+machen (macht; machte; hat gemacht)
+meiner
+mich
+mir
+neu
+sagen (sagt; sagte; hat gesagt)
+Sie
+uns
+warum
+was
+wir
+wissen (weiß; wußte; hat gewußt)
+zu
+als
+an (+acc/dat)
+auch
+auf (+acc/dat)
+auferstehen (ersteht auf; erstand auf; ist auferstanden)
+ausgehen (geht aus; ging aus; ist ausgegangen)
+bei (+dat)
+bleiben (bleibt; blieb; ist geblieben)
+d/d König(in)
+darum
+das Lied (-er)
+das Reich (-e)
+das Tor (-e)
+denn
+der Brief (-e)
+der Bruder (¨-)
+der Fuß (¨-e)
+der Glaube
+der Morgen (-)
+der Nachmittag (-e)
+der Name (-ns; -n)
+der Richter (-)
+der Römer (-)
+der Tag (-e)
+die Auflage (-n)
+die Freiheit
+die Kraft (¨-e)
+die Offenbarung (-en)
+die Sünde (-n)
+die Welt (-en)
+immer
+jed (-er; -e; -es)
+jetzt
+kein (-er; -e; -es)
+können (kann; konnte; hat gekonnt)
+lebendig
+mit (+dat)
+nachmittag
+nehmen (nimmt; nahm; hat genommen)
+nichts
+niemand
+rechtfertigen
+reden (von/über)
+rein
+Rom
+sehr
+sei
+singen (singt; sang; hat gesungen)
+so
+sondern
+stehen (steht; stand; ist gestanden)
+um (+acc)
+um...(+gen)...willen
+verflucht
+wandeln
+wann
+wenn
+wie
+zweit
+also
+antworten
+arbeiten
+auferwecken
+auftun (tut auf; tat auf; hat aufgetan)
+beten
+das Mahl (-e)
+das Wasser
+das Werk (-e)
+das Zeichen (-)
+denken (denkt; dachte; hat gedacht)
+der Abend (-e)
+der Anfang (¨-e)
+der Apostel (-)
+der Beistand
+der Christus
+der Friede (-ns;-n)
+der Menschensohn
+der Stern (-e)
+Deutschland
+die Arbeit (-en)
+die Auferstehung
+die Ewigkeit
+die Nacht (¨-e)
+die Wohnung (-en)
+ein (-er; -e; -es)
+für (+dat)
+hineingehen (geht hinein; ging hinein; ist hineingegangen)
+ihr (m/n); ihre (f)
+in (+acc/dat)
+jemand
+jen (-er; -e; -es)
+lassen (laßt; ließ; hat gelassen)
+leiden (an/unter) (leidet; litt; hat gelitten)
+leiten
+mitten in (+dat)
+morgen
+nennen (nennt; nannte; hat genannt)
+noch
+nur
+rufen (ruft; rief; hat gerufen)
+schaffen (schafft; schuf; hat geschaffen)
+scheinen (scheint; schien; ist geschienen)
+sehen (sieht; sah; hat gesehen)
+selbst
+stehlen (stiehlt; stahl; hat gestohlen)
+sterben (stirbt; starb; ist gestorben)
+tot
+tun (tut; tat; hat getan)
+unter (+acc/dat)
+vergehen (vergeht; verging; ist vergangen)
+viel; (mehr; meist-)
+wieder
+wohin
+wohnen
+zeigen
+zeugen
+zusammen
+acht
+bereiten
+besuchen
+da
+dann
+das Abendmahl (-e)
+das Brot (-e)
+das Fräulein (-)
+das Jahr (-e)
+das Land (¨-er)
+das Meer (-e)
+dazu
+der Bauch (¨-e)
+der Fisch (-e)
+der Mann (¨-er)
+der Mund (¨-er)
+die Allmächtige
+die Angst (¨-e)
+die Erlösung
+die Finsternis
+die Frau (-en)
+die Hölle (-)
+die Kreuzigung (-en)
+die Sonne
+die Stadt (¨-e)
+die Tiefe (-n)
+drei
+dreizehn
+durstig
+einundzwanzig
+elf
+erscheinen (erscheint; erschien; ist erschienen)
+essen (ißt; aß; hat gegessen)
+finster
+fünf
+ganz
+gewinnen (gewinnt; gewann; hat gewonnen)
+gut (besser; best-)
+hundert
+jüdisch
+klein
+leer
+neun
+regieren
+scheiden (scheidt; schied; hat geschieden)
+schreiben (über/von) (schreibt; schrieb; hat geschrieben)
+sechs
+sieben
+sprechen (spricht; sprach; hat gesprochen)
+tausend
+um...zu (+inf.)
+umgeben (umgibt; umgab; hat umgeben)
+verschaffen (verschafft; verschuf; hat verschaffen)
+vier
+vierzehn
+werfen (wirft; warf; hat geworfen)
+wüst
+zehn
+zwei
+zwölf
+anbeten
+aussehen (sieht aus; sah aus; hat ausgesehen)
+ausstoßen (stößt aus; stieß aus; hat ausgestoßen)
+bauen
+beherbergen
+bekleiden
+böse
+damit
+das Gefängnis (-se)
+das Gericht (-e)
+das Gleichnis (-se)
+das Haus (¨-er)
+das Recht (-e)
+der (Mit)knecht (-e)
+der Band (¨-e)
+der Monat (-e)
+die Habe
+die Million (-en)
+die Schöpfung (-en)
+die Seele (-n)
+die Versöhnung
+die Weissangung (-en)
+die Wüste (-n)
+dienen (zu/als)
+dort
+einige
+erwerben (erwirbt; erwarb; hat erworben)
+finden (findet; fand; hat gefunden)
+fremd
+geboren
+gerecht
+gering
+hassen
+hier
+hungrig
+ja
+krank (ä)
+mal
+nackt
+nein
+nun
+oft
+reisen
+schlecht
+selig
+stumm
+suchen
+taub
+töten
+tränken
+unehelich
+vergeben (vergibt; vergab; hat vergeben)
+versiegeln
+vielleicht
+wahrhaftig
+wahrlich
+weil
+weiter
+wider (+acc)
+ziehen (zieht; zog; hat gezogen)
+andere (r; s)
+außen
+bald; (eher; ehest-)
+Buße tun (tut; tat; hat getan)
+d/d Freund(lin)
+das Ende (-n)
+das Gelüst (-e)
+das Ohr (-en)
+das Wiedersehen
+das Wissen um (+acc.)
+der Engel (-)
+der Herrscher (-)
+der Mörder (-)
+der Priester (-)
+der Teufel (-)
+der/die Deutsche (-n)
+die Allmacht
+die Buße
+die Erkenntnis (-se)
+die Gemeinde (-n)
+die Gerechtigkeit
+die Heide (-n)
+die Rechtfertigung
+die Sprache (-n)
+die Weisheitsliteratur
+die Zeit (-en)
+durch (+acc)
+einsetzen
+erfüllen
+erretten
+fromm
+geschehen (geschieht; geschah; ist geschehen)
+gestern
+heiligen
+kalt (ä)
+lau
+lehren
+mehr
+mögen (mag; mochte; hat gemocht)
+nah(e) (näher; nächste)
+niederfallen (fällt nieder; fiel nieder; ist niedergefallen)
+reuen
+richtig
+senden (sendet; sandte; hat gesandt)
+sündigen
+treu(lich)
+tschüß
+über
+unrein
+verlieren (verliert; verlor; hat verloren)
+wahr
+weder ... noch
+weit
+welch (-er; -e; -es)
+wiederkommen (kommt wieder; kam wieder; ist wiedergekommen)
+zusehen (sieht zu; sah zu; hat zugesehen)
+zuverlässig
+(all)mächtig
+aufleuchten
+aufstehen (steht auf; stand auf; ist aufgestanden)
+bedeuten
+bekommen (bekommt; bekam; ist bekommen)
+bis (+acc)
+brauchen
+das Abendessen (-)
+das Ereignis (-se)
+das Kreuz (-e)
+das Mitleiden
+der Erretter (-)
+der Fluch (¨-e)
+der Großvater (¨-)
+der Mittag (-e)
+der Ruf (-e)
+der Sünder (-)
+die Erfahrung (-en)
+die Erfüllung
+die Errettung
+die Erweckung (-en)
+die Familie (-n)
+die Geschichte (-n)
+die Großmutter (¨-)
+die Leute
+die Macht (¨-e)
+die Schule (-n)
+die Schwester (-n)
+die Überwindung
+die Vergebung
+die Verlassenheit
+die Weise
+die Weisheit
+die Weisheitsrede
+eingehen (geht ein; ging ein; ist eingegangen)
+enden
+erfahren (erfährt; erfuhr; ist erfahren)
+erkennen (erkennt; erkannte; hat erkannt)
+eröffnen
+erwecken
+gesamt
+heidnisch
+herrschen
+jedoch
+Jesaja
+kreuzigen
+nie; niemals
+noch einmal
+ohne (+acc)
+schon
+sich ereignen
+sündlos
+tragen (trägt; trug; hat getragen)
+überwinden (überwindt; überwand; hat überwunden)
+verbinden (verbindt; verband; hat verbunden)
+verlassen (auf) (verläßt; verließ; hat verlassen)
+weise
+zugleich
+ab (+dat)
+anschließen (schließt an; schloß an; hat angeschlossen)
+ansehen (als) (sieht an; sah an; hat angesehen)
+befreien
+bisher
+d/d Professor(in)
+das Alter (-)
+das Beispiel (-e)
+das Gebiet (-e)
+das Gesicht (-er)
+das Mittelalter
+das Wunder (-)
+das Zeitalter
+der Einfluß auf (+acc.)
+der Makel (-)
+der Unterschied (-e)
+deshalb
+deswegen
+die Eltern
+die Entstehung
+die Erbsünde
+die Frage (-n)
+die Glaubenslehre
+die Heilsgeschichte
+die Musik
+die ökumenische Bewegung
+die Schuld (-en)
+die Zeugung
+dringen
+empfangen (empfängt; empfing; hat empfangen)
+entfallen auf (+acc.) (entfällt; entfiel; ist entfallen)
+ererbt
+erheben (erhebt; erhob; hat erhoben)
+etwas
+fällen
+fragen (nach)
+gegen (+acc)
+gläubig
+gleich 
+heilsnotwendig
+hinterher
+jung (ü)
+konzipieren
+lernen
+lesen (liest; las; hat gelesen)
+man
+römisch
+schließen (auf) (schließt; schloß; hat geschlossen)
+standhaft
+verschieden
+vertreten (vertritt; vertrat; ist vertreten)
+von ... her
+weiterentwickeln
+wichtig
+wieviel
+zwar
+anders
+beeinflussen
+bekanntlich
+bewahren (vor)
+bringen (bringt; brachte; hat gebracht)
+das Amt (¨-er)
+das Bedürfnis (-se)
+das Christenheit
+das Erbe (-n)
+das Schuldopfer (-)
+das Vorgehen
+der Aufsatz (¨-e)
+der Gesichtspunkt (-e)
+der Nachbar (-n)
+der Papst (¨-e)
+der Sitz (-e)
+der Staat (-en)
+der Titel (-)
+die Beziehung (-en)
+die Empfängnis
+die Entscheidung (-en)
+die Entwicklung (-en)
+die Gruppe (-n)
+die Meinung (-en)
+die Mitte
+die Neuzeit
+die Prüfung (-en)
+die Schweiz
+die Unterscheidung
+die Zierde (-n) or Zier
+doch
+empfinden (empfindet; empfand; hat empfunden)
+entscheiden (entscheidt; entschied; hat entschieden)
+erben
+erklären
+fest
+gebären (gebiert; gebar; hat geboren)
+gleichzeitig
+heißen (heißt; hieß; hat geheißen)
+her
+mißlich
+mitbringen
+ökumenisch
+reich
+römisch-katholisch
+schließlich
+schuldig
+stark (ä)
+unterscheiden (unterscheidt; unterschied; hat unterschieden)
+verändern
+verstehen (unter) (versteht; verstand; ist verstanden)
+von ... ab
+voneinander
+während (+gen)
+zeugte
+zieren
+zwischen (+acc/dat)
+abtun (tut ab; tat ab; hat abgetan)
+anfertigen
+annehmen (nimmt an; nahm an; hat angenommen)
+beschneiden (beschneidt; beschnitt; hat beschnitten)
+bestimmt
+betonen
+bezahlen
+bitte
+circa
+d/d Einwohner(in)
+damals
+danke
+daraufhin
+darstellen
+das Ergebnis (-se)
+das Problem (-e)
+das Urteil (-e) (über)
+das Verbot (-e)
+das Wesen
+der Gegenstand (¨-e)
+der Grund (¨-e)
+der See (-n)
+der Verstand
+die Anfertigung
+die Beschneidung
+die Darstellung (-en)
+die Ehre
+die Gegenwart
+die Verehrung
+eben
+ebensowenig
+entgegentreten (tritt entgegen; trat entgegen; ist entgegengetreten)
+ergeben (ergibt; ergab; hat ergeben)
+ergehen (ergeht; erging; ist ergangen)
+fallen (fällt; fiel; ist gefallen)
+feststehen (steht fest; stand fest; ist festgestanden)
+gegenüber (+dat)
+gelten (gilt; galt; hat gegolten)
+genug
+heiß
+kaufen
+kühl
+legen
+meinen
+noch nicht
+prüfen (auf)
+schneiden (schneidt; schnitt; hat geschnitten)
+schön
+sinnlos
+sinnvoll
+somit
+sonst
+trinken (trinkt; trank; ist getrunken)
+überhaupt
+übernehmen (übernimmt; übernahm; hat übernommen)
+verbieten (verbietet; verbot; hat verboten)
+verehren
+verurteilen
+(sich) ändern
+allein
+bäuerlich
+begründen
+bekennen (bekennt; bekannte; hat bekannt)
+besonder(s)
+dagegen
+darbringen
+das Bild (-er)
+das Glaubensbekenntnis (-se)
+das Verständnis
+das Vorurteil (-e)
+der April
+der August
+der Bauer (-n)
+der Berg (-e)
+der Dezember
+der Februar
+der Januar
+der Juli
+der Juni
+der Knabe (-n)
+der Mai
+der März
+der November
+der Oktober
+der Opfertod
+der September
+der Sinn (-e)
+der Umgang mit
+der Zustand (¨-e)
+deutsch
+die Betonung
+die Demut
+die Gestalt (-en)
+die Hoffnung (-en)
+die Kirchenzucht
+die Tat (-en)
+die Verzweiflung
+die Vorherbestimmung
+einfach
+entgegensetzen (+dat.)
+ersticken
+fast
+gegenständlich
+genügen
+hart
+insbesondere
+irdisch
+ob
+plötzlich
+sich begründen [aus] (+dat.)
+solch (-er; -e; -es)
+tätig
+trösten
+urteilen
+wieweit
+willkürlich
+züchtigen
+(sich) fühlen
+anklagen
+aufmerksam auf (+acc.)
+begreifen (begreift; begriff; hat begriffen)
+bestimmen (zu/für)
+beziehen (bezieht; bezog; hat bezogen) (auf)
+d/d Jurist(in)
+damalig
+das (Ganz)opfer (-)
+das Bekenntnis (-se)
+das Gemüt (-er)
+das Lehrbuch (¨-er)
+das Studium (pl. Studien)
+demütig
+der Begriff (-e)
+der Entschluß (¨-e)
+der Hinweis (-e) (auf)
+der Täter (-)
+der Trost
+der Vorgesetzte
+der Wert (-e)
+die (Un)ruhe
+die Änderung (-en)
+die Aufmerksamkeit
+die Bekenntniskirche (-n)
+die Frömmigkeit
+die Jura (pl.)
+die Strafe (-n)
+die Tätigkeit (-en)
+die Tugend (-en)
+die Willkür
+die Zucht
+die Züchtigung
+eintreten in (tritt ein; trat ein; ist eingetreten)
+erfassen (als)
+erhoffen
+erschrecken
+fortsetzen
+fröhlich
+gemütlich
+gnädig
+hinweisen auf (hinweist; hinwies; hat hinwiesen)
+kriegen
+opfern
+sich entschließen (entschließt; entschloß; hat entschlossen)
+sich steigern (zu)
+statt; anstatt (+gen)
+strafen
+tugendhaft
+üblich
+unverwüstlich
+vermögen zu (vermag; vermochte; hat vermocht)
+vielmehr
+wenig (-e)
+zulassen (laßt zu; ließ zu; hat zugelassen)
+(das) Österreich
+abhängen (hängt ab; hing ab; hat abgehangen)
+ägyptisch
+all (-er; -e; -es)
+außer (+dat)
+außerdem
+beide
+biblisch
+d.h. (das heißt)
+danken (+dat)
+das Essen
+das Gebet (-e)
+der Allherscher (-)
+der Besuch (-e)
+der Frühling
+der Herbst
+der Nord or Norden
+der Ost or Osten
+der Platz (¨-e)
+der Regen
+der Sommer
+der Süd or Süden
+der Teil (-e)
+der Ungehorsam
+der Westen
+der Winter
+die Autorität
+die Barmherzigkeit (-en)
+die Gattung (-en)
+die Gemeinschaft
+die Hauptstadt (¨-e)
+die Huld
+die Milch
+die Nachbarin (-n)
+die Sache (-n)
+die Überlieferung
+draußen
+eigentlich
+einander
+einzig
+endlich
+erbarmen
+erlösen
+grüßen
+leicht
+liegen (an) (liegt; lag; hat gelegen)
+manch (-er; -e; -es)
+nach Christo
+nächste (r;s)
+natürlich
+offenbaren
+richt
+schwer
+teuer
+treffen (trifft; traf; hat getroffen)
+übermorgen
+versöhnen
+vor Christo
+z.B. = zum Beispiel
+abends
+Ägypten
+anfangen (fängt an; fing an; hat angefangen)
+ankommen (kommt an; kam an; ist angekommen) (auf)
+außerhalb (+gen)
+austragen
+d/d Besucher(in)
+das Auge (-n)
+das Drittel (-)
+das Geld (-er)
+das Heft (-e)
+das Judentum
+das Mädchen (e)
+das Schild (-er)
+das Verhältnis (-se)
+das Zentrum
+der Alttestamentler
+der Bürger (-)
+der Durst
+der Kopf (¨-e)
+der Raum (¨-e)
+der Satz (¨-e)
+der Tod (-e)
+der Wille (-ns; -n)
+die Antwort (-en)
+die Einleitung (-en)
+die Idee (-n)
+die Luft
+die Quelle (-n)
+die Reinigung
+die Stunde (-n)
+die Tatsache (-n)
+die Versuchung (-en)
+die Wiederkunft
+eigenständig
+einmal
+ermöglicht
+erziehen
+falsch
+früh
+führen
+helfen (hilft; half; hat geholfen)
+hin
+hineinstellen
+hinter (+acc/dat)
+meist(en)
+möchte
+nach (+dat)
+öffnen
+predigen
+recht
+rechtlich
+rechts
+schauen
+schnell
+setzen
+sitzen (sitzt; saß; hat gesessen)
+stellen
+trotz (+gen.)
+urchristlich
+usw. (und so weiter)
+verkünden; verkündigen
+vor (+acc/dat)
+vorher
+zuviel
+ähnlich (+dat)
+arm (ä)
+auf ... fußen
+barmherzig
+benutzen
+beschreiben (beschreibt; beschrieb; hat beschrieben)
+binden (bindt; band; hat gebunden) (an)
+brechen (bricht; brach; hat/ist gebrochen)
+daneben
+das Bett (-en)
+das Ding (-e)
+das Fleisch
+das Herz (-ens;-en)
+der Anlaß (¨-e)
+der Baum (¨-e)
+der Gehorsam
+der Junge (-n; -n)
+der Unglaube (-ns; -n)
+der Vorname (-ns; -n)
+der Wein (-e)
+die Apostelgeschichte
+die Art (-en)
+die Auslegung (-en)
+die Bibliothek (-en)
+die Ecke (-n)
+die Heiligung
+die Not (¨-e)
+die Person (-en)
+die Stelle (-n)
+die Ungerechtigkeit
+die Vereinigung (-en)
+die Vernunft
+die Vorstellung (-en)
+die Zeitung (-en)
+dreißig
+durchlaufen
+eigen
+-eigen
+erstens
+etwa
+folgen (folgt; folgte; ist gefolgt)
+freundlich
+geringer
+halb
+hoch (hohe; höher; höchste)
+kämpfen
+laut
+manchmal
+mehrere
+mitkommen (kommt mit; kam mit; ist mitgekommen)
+möglich
+nachdem
+neben (+acc./dat.)
+offen
+regnen
+schlafen (schläft; schlief; hat geschlafen)
+schreien (schreit; schrie; hat geschrieen)
+schwierig
+überall
+um ... zu (+inf)
+umsonst
+voll
+wegen (+gen)
+zumachen
+zwanzig
+(sich) fürchten (vor)
+abfahren (fährt ab; fuhr ab; ist abgefahren)
+ander (als)
+anschaulich
+anziehen
+aufmachen
+ausgestalten
+beanspruchen
+bedeutsam
+bedeutungslos
+bedürfen (bedarf; bedurfte; hat bedurft)
+bevor
+bitten (bittet; bat; hat gebeten)
+das Abbild (-er)
+das Abbildung (-en)
+das Datum (pl. Daten)
+das Fest (-e)
+das Mitglied (-er)
+das Schaffen
+dazwischen
+der Ehemann (¨-er)
+der Fehler (-)
+der Götze (-n)
+der Körper (-)
+der Krieg (-e)
+der Verlag
+die Angabe (-n)
+die Anspruch (¨-e)
+die Bedeutung (-en)
+die Einheit
+die Geburt (-en)
+die Herrschaft
+die Jüdin (-nen)
+die Jugend
+die Karte (-n)
+die Nachfolge Christi
+die Nähe
+die Sitte (-n)
+die Unsterblichkeit
+die Verbindung (-en)
+die Verpflichtung (-en)
+die Weisse (-n)
+die Zunahme (-n) (an)
+eine Million
+erbauen
+fassen
+feststellbar
+fleischern
+formgebende
+gegenübertreten
+gemeinsam
+gewohnt
+greifen (greift; griff; hat gegriffen)
+lang (ä)
+mitmachen
+mitteilen
+na
+obschon
+offensichtlich
+rechtgläubig
+seit (+dat.)
+sichern
+sogar
+sowas
+überlassen (+dat) (überlaßt; überließ; hat überlassen)
+umfangreich
+vereinzelt
+verfolgen
+vergleichen (mit) (vergleicht; verglich; hat verglichen)
+vierzig
+vorhaben (hat vor; hatte vor; hat vorgehabt)
+wachsen (wächst; wuchs; ist gewachsen)
+weiterhin
+würde
+zumindest
+antik
+baden
+beantworten
+beilegen
+beispielsweise (bsw.)
+bekannt
+bewähren
+bewohnen
+bezeichnet
+bezeugen
+daher
+dank (+gen/dat)
+das Angeld
+das Fenster (-)
+das Leiden
+das Sein
+der Arm (-e)
+der Finger (-)
+der Heiland
+der Magen (¨-)
+der Nachweis (-e)
+der Schlüssel (-)
+der Schöpfer (-)
+der Übermut
+der Wald (¨-er)
+der Zaun (¨-e)
+die Annahme (-n)
+die Flut (-en)
+die Forschung
+die Frucht (¨-e)
+die Grenze (-n)
+die Hand (¨-e)
+die Himmelfahrt
+die Kerze (-n)
+die Krankheit (-en)
+die Nachricht (-en)
+die Nase (-n)
+die Pflanze (-n)
+die Ursache (-n) (für)
+die Wissenschaft (-en)
+dieser..., jener
+dreimal
+einladen (lädt ein; lud ein; hat eingeladen)
+erhalten (erhält; erhielt; hat erhalten)
+erstaunt
+erzählen
+fällen
+gefallen (+dat.) (gefällt; gefiel; ist gefallen)
+gehören (+dat)
+gerade
+gesellschaftlich
+gütig
+hängen (hängt; hing; hat gehangen)
+hineinnehmen
+jeweiligen
+kirchlich
+lange (ä)
+laufen (läuft; lief; ist gelaufen)
+lieber
+morgens
+mühsam
+obwohl
+ohnehin
+putzen
+schenken
+schwach (ä)
+selber; selbst
+siehe (oben/unten)
+sparen
+steinern
+sündhaft
+überraschen
+umfassen
+verfluchen
+verkaufen
+verletzen
+versagen
+wegfahren (fährt weg; fuhr weg; ist weggefahren)
+weitgehend
+wirken
+wohl
+zählen zu
+ziemlich
+zunehmen (nimmt zu; nahm zu; hat zugenommen)
+akzeptieren
+allgemein
+annehmbar
+anstiften
+anwenden (wendet an; wandte an; hat angewandt/angewendet)
+bearbeiten
+beginnen (beginnt; begann; hat begonnen)
+beweisen (beweist; bewies; hat bewiesen)
+danach
+das Ausland
+das Dorf (¨-er)
+das Jahrhundert (-e)
+das Kennzeichen (-)
+das Mal (-e)
+das Teilgebiet (-e)
+dauern
+der Fluß (¨-e)
+der Gewinn (-e)
+der Gläubige (-n)
+der Lohn (¨-e)
+der Nutzen
+der Segen
+der Vergleich (-e)
+der Zweck (-e)
+die Ansicht (-en)
+die Bäuerin (-nen)
+die Befreiung
+die Fehldeutung
+die Formel (-n)
+die Fremdsprache (-n)
+die Gelegenheit (-en)
+die Grammatik
+die Grundlage (-n)
+die Hälfte
+die Hilfe
+die Kultur (-en)
+die Mittel (pl.)
+die Neigung (-en) (zu)
+die Sittenlehre
+die Sorge (-n)
+die Umkehr
+die Verallgemeinerung (-en)
+die Veränderung (-en)
+die Wandlung (-en)
+dringend
+dürfte
+ebenso
+enthalten (enthält; enthielt; hat enthalten)
+früher
+gewöhnlich
+günstig
+heiraten
+hoffen (auf)
+isolieren
+kräftig
+langsam
+nachweisen (weist nach; wies nach; hat nachgewiesen)
+neulich
+örtlich
+pro
+schicken
+schlapp
+schulden
+sich beklagen
+sich vermählen
+sobald
+trotzdem
+typisch
+umfassend
+unabhängig
+unschuldig
+vergleiche (vgl.)
+vernachlässigt
+versiert
+verteilt
+verwenden (verwendet; verwandte; hat verwandt)
+warnen (vor)
+weithin
+zutreffen (trifft zu; traf zu; hat zugetroffen) (für)
+(sich) überlegen
+ablegen
+anbieten (bietet an; bot an; hat angeboten)
+anzeigen
+auf Seiten
+aufbauen (auf/aus)
+ausschließen (schließt aus; schloß aus; hat ausgeschlossen)
+bedeutend
+begehen
+behaupten
+beschließen (beschließt; beschloß; hat beschlossen)
+bewerten
+bieten (bietet; bot; hat geboten)
+christlich
+d/d Arbeiter(in)
+d/d Gegner(in)
+das Fach (¨-er)
+das Gebeit (-e)
+das Haar (-e)
+das Hügelland
+das Tier (-e)
+das Verhalten
+der Abschluss
+der Anteil (-e) (an)
+der Bruch (¨-e)
+der Durchbruch
+der Einwand (¨-e)
+der Grundsatz (¨-e)
+der Segen
+der Streit
+der Wunsch (¨-e)
+die Anfechtung (-en)
+die Anzahl
+die Arbeitskräfte (pl)
+die Ausführung
+die Bedingung (-en)
+die Berechtigung
+die Energie
+die Fähigkeit (-en)
+die Gesinnung
+die Gottesgebärerin
+die Prediger (-)
+die Rechnung (-en)
+die Rede (-n)
+die Sorte (-n)
+die Verarbeitung (-)
+diesbezüglich
+echt
+entfaltet
+erholen
+feststellen
+gegenwärtig
+gelehrt
+gestalten
+gewiß
+hervor
+hinausstoßen (stößt hinaus; stieß hinaus; hat hinausgestoßen)
+-jährig
+leisten
+mittels (+gen)
+nach innen
+nahelegen
+prima
+rasch
+rechnen
+sofern
+stätisch
+steigen (steigt; stieg; ist gestiegen)
+um so (+comparative)
+umreißen (umreißt; umriß; hat umrissen)
+unterweisen (unterweist; unterwies; hat unterwiesen)
+verständlich
+versuchen
+vertrauen
+warten (auf)
+waschen (wäscht; wusch; ist gewaschen)
+weniger
+werten (als)
+zwingen (zwingt; zwang; hat gezwungen)
+auffinden (findet auf; fand auf; hat aufgefunden)
+ausländisch
+basieren (auf +dat.)
+bedienen
+bedrohen
+begeben
+bemerken
+beobachten
+bewirken
+blond
+darüber hinaus
+das Dach (¨-er)
+das Fieber
+das Gespräch (-e)
+das Gras (¨-er)
+das Pfingsten
+das Täßchen
+dennoch
+der Ansatztpunkt
+der Bewohner (-)
+der Buchstabe (-ns;-n)
+der Ernst
+der Grundgedanke
+der Sprecher (-)
+der Stein (-e)
+der Themenbereich (-en)
+die Allgemeinheit
+die Auffassung (-en)
+die Beobachtung (-en)
+die Erwählung
+die Erweiterung
+die Geduld
+die Klausur (-en)
+die Lust
+die Reichweite (-n)
+die Religion
+die Straße
+die Vergangenheit
+die Zeitschrift (-en)
+eingehend
+einhalten (hält ein; hielt ein; hat eingehalten)
+genauer
+geschichtlich
+groß(ö)
+grün
+hebräisch
+hinzu
+mediterran
+naheliegen (liegt nahe; lag nahe; hat nahegelegen)
+obgleich
+reformieren
+Rück-
+schlagen (schlägt; schlug; hat geschlagen)
+solange
+umso
+väterlich
+verfahren (verfährt; verfuhr; ist verfahren)
+von…her
+warm (ä)
+weiß
+wenigstens
+wiederum
+wirklich
+aufgrund (+gen)
+aufrufen
+bedingen
+berichten
+bezeichnend
+blau
+braun
+bunt
+das Gebein (-e)
+das Grundstück (-e)
+das Konzept (-e)
+das Kupfer
+das Silber
+das Wachstum
+der Ansatz (¨-e) (zu)
+der Gast (¨-e)
+der Gesichtswinkel
+der Karfreitag
+der Klassiker (-)
+der Kommentar (-e)
+der Mantel (¨-)
+der Mut
+der Rahmen (-)
+der Umstand (¨-e)
+der Vermittler (-)
+deutlich
+die Aussage (-n)
+die Berufung (-en)
+die Dauer
+die Entfaltung (-en)
+die Farbe (-n)
+die Handarbeit
+die Lösung (-en)
+die Natur (-en)
+die Richtigstellung (-en)
+die Sphäre (-n)
+die Übung (-en)
+die Unabhängigkeit
+die Vergänglichkeit
+die Weihnacht or Weihnachten
+eigentümlich
+einleuchten
+einteilen (in)
+entdecken
+ersetzen (durch)
+fortfahren (fährt fort; fuhr fort; ist fortgefahren)
+gelb
+grau
+heimkehren
+hell
+holen
+in erster Linie
+indessen
+miteinander
+nähern
+rot
+ruhen (auf/in)
+salben
+schwarz
+sofort
+soviel
+unhaltbar
+vor allem
+wandern
+zeitlich
+zuerst
+zuletzt
+abgesehen von
+anknüpfen (an)
+aufheben (hebt auf; hob auf; hat aufgehoben)
+begegnen
+bewusßt
+bilden
+bisweilen
+breit
+das Abhandlung (-en)
+das Gebilde (-)
+der Anschein
+der Aspekt (-e)
+der Backstein
+der Fleiß
+der Hinweis (-e)
+der Prinzip (-ien)
+der Ursprung (¨-e)
+der Wächter (-)
+der Widerhall
+der Wind (-e)
+der/die Bedürftige
+die Auswahl
+die Auswirkung (-en)
+die Eigentümlichkeit
+die Erhöhung (-en)
+die Form (-en)
+die Gesellschaft (-en)
+die Gnadengabe
+die Krüze
+die Salbung
+die Schlußfolgerung (-en)
+die Steuer
+die Verachtung
+die Verhaltensweise (-n)
+eher
+einwirken (auf)
+einzeln
+entlegen
+erlauben
+erwähnen
+fertig
+gar
+gar nicht
+graben (gräbt; grub; hat gegraben)
+handeln (von)
+heimsuchen
+historisch
+horchen
+infolgedessen
+irgendwann
+lebensnotwendig
+nahezu
+rahmenlos
+sachgemäss
+sauber
+selbständig
+selbstverständlich
+sonstwie
+soweit
+treiben (treibt; trieb; hat getrieben)
+unterhalten (unterhält; unterhielt; hat unterhalten)
+vereinigen
+voran
+voraussehen (sieht voraus; sah voraus; hat vorausgesehen)
+wegnehmen (nimmt weg; nahm weg; hat weggenommen)
+zerstören
+(das) Französisch
+(das) Griechenland
+abhängig (von)
+allererst
+alternativ
+aneignen
+atmen
+aufhören (mit)
+aufweisen (weist auf; wies auf; hat aufgewiesen)
+befestigen
+begeistert
+beherrschen
+bestellen
+betreffen (betrifft; betraf; hat betroffen)
+bisherig
+blühen
+das Ablauf
+das Leid
+das Papier (-e)
+debattierbar
+der Bau (-ten)
+der Boden (¨-)
+der Gebrauch (¨-e)
+der Rückgriff
+der Verfasser (-)
+der Wohlstand
+die Anleitung
+die Begier(de)
+die Begrifflichkeit (-en)
+die Begründung (-en)
+die Beschreibung (-en)
+die Botschaft (-en)
+die Eilfertigkeit
+die Gesundheit
+die Haut
+die Heimsuchung (-en)
+die Rechtgläubigkeit
+die Reihe (-n)
+die Reise (-n)
+die Satzung (-en)
+die Stärke (-n)
+die Umwelt
+die Verteidigung (-en)
+die Wirklichkeit
+die Zukunft
+entscheidend
+entschlossen
+fleißig
+je
+kaum
+kennenlernen
+längs (+gen)
+linke (r;s)
+links
+nebeneinander
+sämtlich
+sowie
+spät
+unterschiedlich
+veranstalten
+verbreitet
+voraus
+wählen
+zertrennbar
+ablehnen
+abschließen (scließt ab; schloß ab; hat abgesclossen)
+abzeichnen
+aufzeigen
+begraben (begräbt; begrub; hat begraben)
+berücksichtigen
+beziehungsweise [bzw.]
+dabei
+das Geklingel
+das Thema (-ta or -men)
+debattieren
+der Anhaltspunkt
+der Bedarf (an)
+der Blitz
+der Geschmack
+der Schatz (¨-e)
+der Vetter (-)
+der Wechsel
+der/die Erwachsene
+der/die Jugendliche
+der/die Verwandte
+die Begrüßung (-en)
+die Besonderheit (-en)
+die Blume (-n)
+die Chance (-n)
+die Eindeutigkeit
+die Einsetzung
+die Erkaltung (-en)
+die Grube (-n)
+die Heimat
+die Lage (-n)
+die Menschenart
+die Rolle (-n)
+die Stellung (-en)
+die Verantwortung
+die Vorbereitung (-en)
+die Woche (-n)
+die Zusammenarbeit
+duftig
+dunkel; dunkle (r; s)
+einigermaßen
+entstehen (entsteht; entstand; ist entstanden)
+erfordern
+erwarten
+festhalten (hält fest; hielt fest; hat festgehalten)
+garantiert
+gebräuchlich
+gründlich
+herantreten (tritt heran; trat heran; ist herangetreten)
+inwiefern
+klar
+kurz (ü)
+kürzlich
+lediglich
+loben
+neuerdings
+ordnen
+pflanzen
+pflanzlich
+sammeln
+schildern
+selten
+sowohl...als
+überzeugend
+unterwerfen (unterwirft; unterwarf; hat unterworfen)
+verdienen
+vorausgesetzt
+vorsehen (sieht vor; sah vor; hat vorgesehen)
+widerfahren (widerfährt; widerfuhr; ist widerfahren)
+wirksam
+zitieren
+ableiten (von/aus)
+abweichen (weicht ab; wich ab; ist abgewichen)
+ausbauen
+beibringen
+beruhen (auf)
+billig
+blaß
+das Bewußtsein
+demgemäß
+der Anschluß
+der Bereich (-e)
+der Blick (-e) (auf)
+der Dienstag
+der Donnerstag
+der Eindruck (¨-e)
+der Freitag
+der Gedanke (-ns;-n)
+der Mittwoch
+der Montag
+der Samstag
+der Sonnabend
+der Sonntag
+der Widerspruch (¨-e)
+der Zahn (¨-e)
+die Armut
+die Ausrichtung
+die Bestimmung (-en)
+die Bewegung (-en)
+die Freundlichkeit
+die Grundlinie (-n)
+die Identität
+die Kleinkinder
+die Leistung (-en)
+die Mischung (-en)
+die Ordnung
+die Sammlung (-en)
+die Schilderung (-en)
+die Sühne
+die Tante (-n)
+die Übereinstimmung (-en) (mit)
+die Verbesserung
+die Wahrnehmung (-en)
+durchziehen
+einschlagen (schlägt ein; schlug ein; hat eingeschlagen)
+eng
+ergreifen (ergreift; ergriff; hat ergriffen)
+euch: bei euch
+fein
+fett
+fettig
+genau
+genauso
+herausgeben (gibt heraus; gab heraus; hat herausgegeben)
+in ... hinein
+klingen (klingt; klang; hat geklungen)
+kosten
+lösen (aus/von)
+mehrfach
+nachschlagen (schlägt nach; schlug nach; hat nachgeschlagen)
+nötig
+paar
+pflegen
+probieren
+samstags
+schlechthin
+stützen (auf)
+täglich
+umstellen
+Ur-
+verbergen (verbirgt; verbarg; hat verborgen)
+vorhergehend
+wahrnehmbar
+wechseln
+-wert
+wünschen
+zudem
+aktuell
+anschauen
+ausbilden
+behandeln
+belanglos
+besagen
+bis zu
+brennen (brennt; brannte; hat gebrannt)
+das Eigentum
+das Vaterunser (-)
+demnach
+den Schluß ziehen (zieht; zog; hat gezogen)
+der Bericht (-e) (über)
+der Inbegriff (-e)
+der Zusammenhang (¨-e) (von/zwischen)
+der Zwang
+die Absage
+die Anschauung (-en)
+die Aufgabe (-n)
+die Behandlung
+die Breite (-n)
+die Einzelheit (-en)
+die Erklärung (-en)
+die Fortbildung
+die Gabel (-n)
+die Güter
+die Regel (-n)
+die Taube (-n)
+die Überlegung (-en)
+die Verborgenheit
+die Wahl (-en)
+die Wahrscheinlichkeit (-en)
+die Wohnsituation
+die Zusammenfassung
+effektiv
+eindrucksvoll
+einschließen (schließt ein; schloß ein; hat eingeschlossen)
+erheblich
+erreichen
+faul
+fliegen (fliegt; flog; ist/hat geflogen)
+fließen (fließt; floß; ist/hat gefloßen)
+herausnehmen (nimmt heraus; nahm heraus; hat herausgenommen)
+herum
+hinein
+kritisch
+lateinisch
+minder
+mischen
+nämlich
+nördlich
+notwendig
+passen (+dat)
+reifen
+schützen (gegen/vor)
+schweigen (schweigt; schwieg; hat geschwiegen)
+teilen
+unbedingt
+verändert
+vorbereiten
+vorherrschen
+wahrnehmen (nimmt wahr; nahm wahr; hat wahrgenommen)
+weg-
+weiblich
+wörtlich
+zufällig
+zufrieden
+zurechnen
+zurück
+abwichen
+aller-
+angeregt
+ausdrücken
+bekehren
+belasten
+beschränken (auf)
+besitzen (besitzt; besaß; hat besessen)
+das Feld (-er)
+das Geheimnis (-se)
+das Ziel (-e)
+das Zimmer (-)
+der Abschnitt (-e)
+der Beleg (-e)
+der Besitz
+der Bestandteil (-e)
+der Tisch (-e)
+der Wandel
+dergleiche
+derselbe
+dessen
+die Aussprache
+die Bemerkung (-en)
+die Deutung (-en)
+die Einfachheit
+die Etappe
+die Fassung
+die Kindschaft
+die Regierung (-en)
+die Seite (-n)
+die Übersicht (-en)
+die Veranstaltung (-en)
+die Wirksamkeit
+die Zerstörung
+dumm (ü)
+einleuchten
+erläutern
+geheim
+herbeiführen
+konkurrieren
+künstlich
+leihen (leiht; lieh; hat geliehen)
+mindere (r;s)
+mittlerweile
+nutzen/nützen
+rennen (rennt; rannte; ist gerannt)
+seelisch
+sich bekehren
+sichtbar
+sogennant
+sorgen (für)
+teils
+toll
+unterrichten
+veranlassen
+verantwortlich (für)
+verdunkeln
+verheiratet
+verliebt
+vorigen
+vorschlagen (schlägt vor; schlug vor; hat vorgeschlagen)
+willkommen
+zahlen
+zugeben (gibt zu; gab zu; hat zugegeben)
+zuhören
+zutun
+zweifeln
+angewiesen (auf)
+ausgezeichnet
+bereits
+berufen (beruft; berief; hat berufen) (auf)
+berühen
+bestreiten (bestreitet; bestritt; hat bestritten)
+das Geschöpf (-e)
+das Herrenmahl
+das Mas
+das Maß (-e) (an/von)
+das Verfahren (-)
+das Wirken
+der Acker (ä)
+der Bezug (¨-e)
+der Gottesbegriff (-e)
+der Mystiker (-)
+der Rest (-e)
+deuten (auf)
+die Abzweckung (-en)
+die Behauptung
+die Bemühung (-en)
+die Durchsicht
+die Erinnerung (-en)
+die Fall (¨-e)
+die Herrlichkeit
+die Inanspruchnahme (-n)
+die Reue
+die Sicherheit
+die Überzeugung (-en)
+die Verfolgung (-en)
+die Verheißung (-en)
+die Verstockung
+die Vorsehung
+die Wärme
+die Wechselbeziehung
+die Wirkung (-en) (auf)
+die Zahlung
+durchaus nicht
+durcheinanderwerfen
+einseitig
+erlangen
+erneuen
+falls
+folgern aus
+gehorsam gegen
+geistig
+geistlich
+gelangen
+herrlich
+hineinlegen in
+lieb
+menschlich
+mindestens
+nachweisbar
+näher
+obere (r;s)
+offenbart
+richten (an/auf)
+schrecklich
+seitig
+sittlich
+Sitz im Leben
+tief
+trennen (von)
+tröstlich
+übrig
+ungekürzt
+verbürgen
+verhärten
+vortragen
+wegfallen (fällt weg; fiel weg; ist weggefallen)
+zugehörig
+zukommen (kommt zu; kam zu; ist zugekommen)
+allerdings
+anerkannt
+anhand (+gen)
+aufsehen (sieht auf; sah auf; hat aufgesehen)
+ausprägen
+ausrighten
+beurteilen
+das Glied (-er)
+das Merkmal (-e)
+das Zeugnis
+der Anhang
+der Charakter
+der Erweis (-e)
+der Geistliche (-n)
+der Gottesdienst (-e)
+der Leser (-)
+der Neutestamentler (-)
+der Sieg (-e)
+die Absicht (-en)
+die Bezugnahme (-n) (auf)
+die Ergänzung
+die Gotteserkenntnis
+die Größe (-n)
+die Hingabe
+die Hülle (-n)
+die Predigt (-en)
+die Sicht (-en)
+die Umgebung (-en)
+die Unruhe
+die Unwissenheit
+die Weisung (-en)
+die Zielsetzung (-en)
+doof
+einbeziehen
+einnehmen (nimmt ein; nahm ein; hat eingenommen)
+einsichtig
+empörend
+fahren (fährt; fuhr; ist gefahren)
+fangen (fängt; fing; hat gefangen)
+fließend
+französisch
+frieren (friert; fror; hat gefroren)
+gebrauchen
+gefährlich
+gesetzlich
+heimatlos
+liefern
+miß-
+mitempfinden (empfindet; empfand; hat mitempfunden)
+nach außen
+nirgends
+oberhalb (gen)
+regelmäßig
+saufen (säuft; soff; hat gesoffen)
+schlingen (schlingt; schlang; hat geschlungen)
+schonen
+seinen
+seits
+sinnlich
+stören
+tanzen
+übersetzen
+übrigens
+verdanken
+vergessen (vergißt; vergaß; hat vergessen)
+verwandeln
+-wärts
+wirtschaftlich
+zugunsten (+gen)
+abgeben (gibt ab; gab ab; hat abgegeben)
+anstellen
+auf ... (+acc) ... hin
+ausgezeichnet
+ausscheiden (scheidet aus; schied aus; hat/ist ausgeschieden)
+beißen (beißt; biß; hat gebissen)
+berechnen
+betrachten
+das Bestreben
+das Geschenk (-e)
+das Vermögen
+das Vertrauen auf (+acc.)
+der Altar (¨-e)
+der Ausgangspunkt (-e)
+der Betrieb (-e)
+der Mangel (an) (+dat)
+der Tatdestand (¨-e)
+die Angleichung an (+acc)
+die Anlage (-n)
+die Einwendung (-en)
+die Exegese 
+die Forderung (-en) (nach)
+die Lektüre
+die Lücke (-n)
+die Schwachheit
+die Übersetzung (-en)
+die Vermittlung
+die Verteilung (-en)
+die Weltanschauung
+die Wichtigkeit
+die Zahl (-en)
+drehen (um)
+Einzel-
+entweihen
+erforschen
+erinnern (an) 
+erstrecken (auf)
+faßbar
+fressen (frißt; fraß; hat gefressen)
+fruchtbar
+gesetzmäßig
+hierbei
+innerlich
+keinerlei
+mittelbar
+mütterlich
+scheitern
+sinken (sinkt; sank; ist gesunken)
+teilhaben
+überbieten
+unterlegen
+verbrauchen
+verschiedenartig
+versehen (versieht; versah; hat versehen)
+von ... aus
+vorschreiben (schreibt vor; schrieb vor; hat vorgeschrieben)
+zerstreuen
+zuordnen
+zussamenschließen (schließt zussamen; schloß zussamen; hat zussamengeschlossen)
+abgrenzen (gegen/von)
+abholen
+antreffen (trifft an; traf an; hat angetroffen)
+auffassen
+ausschließlich
+äußern
+berechtigen (zu)
+bezüglich (+gen)
+das Dasein
+das Vorbild (-er)
+das Weltbild
+der Dichter (-)
+der Mord
+der Tempel (-)
+der Ton (¨-e)
+der Ton (-e)
+die Angriff (-e)
+die Anordnung (-en)
+die Einzelheit (-en)
+die Formulierung (-en)
+die Gewalt (-en)
+die Kusine (-n)
+die Masse (-n)
+die Schwerkraft
+die Verwaltung (-en)
+die Wiederaufrichtung
+drohen
+empfehlen (empfiehlt; empfahl; hat empfohlen)
+ergänzen
+ernst
+erwachsen (erwächst; erwuchs; ist erwachsen)
+fehlen
+gegenseitig
+gestatten
+gesund
+hervorrufen (ruft hervor; rief hervor; hat hervorgerufen)
+hierfür
+keineswegs
+leiblich
+mittlere (r;s)
+raten (rät; riet; hat geraten)
+schmal
+übergehen (geht über; ging über; ist übergegangen)
+unterstellen
+verbreiten
+verschwinden (verschwindet; verschwand; ist verschwunden)
+voraussetzen
+vorstellen
+was ...(+acc)... betrifft
+weihen
+wesentlich
+zurückführen
+zustande bringen
+ablaufen (läuft ab; lief ab; abgelaufen)
+absolut
+anlegen
+-artig
+Außen-
+äußerst
+berechnend
+bereit
+das Denken
+das Erachten
+das Feind (-e)
+das Messer (-)
+das Weltall
+das Werkzeug (-e)
+der Beweis (-e) (für)
+der Drang (zu)
+der Führer (-)
+der Narr (-en; -en)
+der Töpfer (-)
+der Träger
+die Anstrengung (-en)
+die Auferstehungsfeier
+die Aufhebung
+die Ergebenheit
+die Fragestellung (-en)
+die Gewißheit
+die Maßnahme (-n)
+die Mittelstellung (-en)
+die Skizze
+die Verwandlung (-en)
+die Wiedergabe
+durchaus
+endgültig
+entsprechend (+dat)
+erweitern
+gewährleisten
+gleichen (gleicht; glich; hat geglichen)
+Hesekiel
+hierzu
+irgendwelche
+kennzeichnen
+möglicherweise
+reißen (reißt; riß; hat gerissen)
+schöpferisch
+seltsam
+stammen (aus/von)
+überaus
+übergreifen (greift über; griff über; hat übergegriffen)
+ungeheuer
+vereinfachen
+verstärken
+vorgehen (geht vor; ging vor; ist vorgegangen)
+vorübergehen (geht vorüber; ging vorüber; ist vorübergegangen)
+widersprechen (spricht wider; sprach wider; hat widergesprochen)
+zurückgehen (geht zurück; ging zurück; ist zurückgegangen)
+ablösen
+aufeinander
+außer-
+berufen
+bezeichnen
+das Erbarmen
+das Gedächtnis
+das Haupt (¨-er)
+das Obst (-arten)
+das Zusammenspiel
+der Dienst (-e)
+der Druck (¨-e)
+der Typ or Typus
+die Aufzeichnung (-en)
+die Festgabe
+die Führung
+die Fülle
+die Gründung
+die Materie (-n)
+die Pflege
+die Sonderstellung (-en)
+die Unreinheit
+die Verwandtschaft (-en)
+die Verwerfung
+durchaus nicht
+entbehren
+erzeugen
+gemäß (+dat)
+gewissermaßen
+gleichsetzen
+hieran
+hinaus
+jedenfalls
+kennzeichnend (für)
+letztere (r;s)
+möglichst
+reiten (reitet; ritt; hat geritten)
+schriftlich
+ständig
+stoppen
+übereinstimmen
+überlegen (an)
+ungleich
+unzugänglich
+verfallen
+verteidigen
+verteilen (auf)
+vorsiehen
+vorübergehend
+wiegen (wiegt; wog; hat gewogen)
+zu allen Zeiten; zu jeder Zeit
+zurückgriefen
+zweckmäßig
+abnehmen (nimmt ab; nahm ab; hat abgenommen)
+anpassen (an)
+auffallen (fällt auf; fiel auf; is aufgefallen)
+äußere (r; s)
+aussprechen (spricht aus; sprach aus; hat ausgesprochen)
+berühmt
+beschäfitgen
+das Gefühl (-e)
+das Hosteinhäuslein (-)
+das Individuum (pl. Individuen)
+das Viertel (-)
+das Zusammenwirken
+der Einblick (in)
+der Embarmer (-)
+der Gipfel (-)
+der Übergang (¨-e) (von/zu)
+die Auseinandersetzung (-en)
+die Bezeichnung (-en)
+die Entdeckung (-en)
+die Folge (-n)
+die Ganzheit
+die Gunst
+die Menge (-n)
+die Spannung (-en)
+die Unschuld
+die Verwendung (-en)
+die Vollkommenheit
+durchdringen (durchdringt; durchdrang; hat durchdrungen)
+entfernt (von)
+es stellte sich heraus, daß...
+gleichbleiben (bleibt gleich; blieb gleich; ist gleichgeblieben)
+greifbar
+hierdurch
+hinausgehen (geht hinaus; ging hinaus; is hinausgegangen)
+infolge (+gen)
+klären
+leugnen
+mündlich
+nötigen
+schwanken
+sterblich
+tatsächlich
+überflüssig
+überliefern
+unglücklicherweise
+verfassen
+verhünftig
+vertiefen
+vorwiegend
+vorziehen (zieht vor; zog vor; hat vorgezogen)
+zurückkehren
+zweifach
+abschätzen
+anderswo
+aufgeben (gibt auf; gab auf; hat aufgegeben)
+aufrichten
+außerordentlich
+bestätigen
+das Bedenken
+das Gegenteil (-e) (von)
+das Innere
+das Zustandekommen
+der Eingriff (-e)
+der Hirte (-n)
+der Ort (-e)
+der Plan (¨-e)
+der Sabbat (-e)
+der Umfang (¨-e)
+der Verlauf
+die Ausnahme (-n)
+die Bezeugung
+die Embarmung
+die Geburt (-en)
+die Menschheit
+die Spitze (-n)
+die Spur (-en)
+die Uhr (-en)
+die Untersuchung (-en)
+die Verwirklichung (-en)
+die Voraussetzung (-en)
+die Zusage
+durchführen
+entfalten
+entgegen (+dat)
+etwas zur Kenntnis nehmen
+folglich
+gelegentlich
+gleichförmig
+grundlegend
+hinreichen
+innerhalb (+gen)
+knapp
+messen (mißt; maß; hat gemessen)
+nachfolgen
+riechen (riecht; roch; hat gerochen)
+senken
+überschreiten (überschreitet; überschritt; hat überschritten)
+überzeugen
+Unrecht tun (tut; tat; hat getan)
+verfügbar
+verknüpfen
+vertraut
+verweisen auf (verweist; verwies; hat verwiesen)
+wagen
+weisen (weist; wies; hat gewiesen)
+wissenschaftlich
+zusammenfallen (fällt zusammen; fiel zusammen; ist zusammengefallen)
+absehen (sieht ab; sah ab; hat abgesehen)
+allzu
+auflösen
+ausstatten (mit)
+beteiligen
+das Geschehen
+der Einsatz
+der Hörer (-)
+der Laie (-n)
+der Punkt (-e)
+der Sendebrief
+der Verkehr
+der Worschatz
+die Auswertung (-en)
+die Gefahr (-en)
+die Güte
+die Messung (-en)
+die Stätte (-n)
+die Unterweisung
+die Verzerrung (-en)
+die Welle (-n)
+die Zustimmung
+durchschnittlich
+entgegengesetzt
+erbaulich
+erweisen (erweist; erwies; hat erwiesen)
+eventuell
+fordern
+gelingen (gelingt; gelang; ist gelungen)
+gleichsam
+heben (hebt; hob; hat gehoben)
+hinsichtlich (+gen)
+konsequent
+körperlich
+laut (+gen)
+mitgeben (mtgibt; mitgab; hat mitgeben)
+nachstehen
+offenbar
+schießen (schießt; schoß; hat geschossen)
+senkrecht
+sich berühen mit
+übersehen (übersieht; übersah; hat übersehen)
+unsterblich
+verfügen über
+vermutlich
+verursachen
+verwiesen auf
+wechselseitig
+weitschichtig
+wunderbar
+zunächst
+zusammenfassen (unter)
+abspielen
+ansprechen (spricht an; sprach an; hat angesprochen) (auf)
+aufsteigen (steigt auf; stieg auf; ist aufgestiegen)
+aufstellen
+ausüben
+beteiligt
+das Geschlect (-er)
+das Stück (-e)
+der Einzelfall (¨-e)
+der Inhalt
+der Lauf (¨-e)
+der Sklave (-n)
+der Spruch (¨-e)
+der Verlust (-e) (an)
+die Anforderung (-en)
+die Beschleunigung (-en)
+die Bevölkerung
+die Bildung
+die Freude (-n)
+die Geisteswissenschaften
+die Hinsicht (-en)
+die Mitteilung (-en)
+die Stellungnahme (-n) (zu)
+die Vielfalt
+die Vorlesung (-en)
+die Wende (-n)
+durchsetzen
+einverleiben
+entgegenstellen
+entspringen (entspringt; entsprang; ist entsprungen)
+erfinden (erfindet; erfand; hat erfunden)
+-fach
+gliedern
+gründen (auf)
+hervorgehen (geht hervor; ging hervor; ist hervorgegangen)
+hineinlesen in
+hinweg
+korrigieren
+mittelalterlich
+naturgemäß
+offenkundig
+sich
+sich beschweren
+stoßen (stößt; stieß; hat gestoßen)
+übertragen (überträgt; übertrug; hat übertragen)
+umgehen mit (umgeht; umging; ist umgangen)
+vergangen
+vernehmen (vernimmt; vernahm; hat vernommen)
+verwandt
+weitergehen (geht weiter; ging weiter; ist weitergegangen)
+wem
+würdig
+zusammenhängen (hängt zusammen; hing zusammen; hat zusammengehangen)
+allenfalls
+Andforderung stellen an (+acc.)
+angelernt
+auftauchen
+auszeichnen
+bestehen (besteht; bestand; ist bestanden)
+beträchtlich
+das Apostolicum
+das Gewicht (-e)
+das Unheil
+der Auftrag (¨-e)
+der Ersatz
+der Frevel
+der Lebenswandel
+der Stoff (-e)
+der Versuch (-e)
+die Betrachtung (-en)
+die Bitte (-n)
+die Erziehung
+die Feier (-n)
+die Geltung
+die Gemeinsamkeit (-en)
+die Klage (-n)
+die Möglichkeit (-en)
+die Stichprobe (-n)
+die Stufe (-n)
+die Unzier
+die Vielzahl
+ebenfalls
+entnehmen aus (entnimmt; entnahm; hat entnommen)
+entweder...oder
+Fach-
+fliehen (flieht; floh; ist/hat geflohen)
+grob
+hervorheben (hebt hervor; hob hervor; hat hervorgehoben)
+hinzufügen
+indem
+kraft (+gen)
+kühn
+neigen
+sich wenden (wendet; wandte; hat gewandt)
+Sonder-
+übertreffen (übertrifft; übertraf; hat übertroffen)
+unangemessen
+unterhalb (+gen)
+verhalten (verhält; verhielt; hat verhalten)
+verwirklichen
+völlig
+wenn ... auch
+-wesen
+zahlreich
+zurücktreten (tritt zurück; trat zurück; ist zurückgetreten)
+zusammensetzen (aus)
+allmählich
+angesichts (+gen)
+aufnehmen (nimmt auf; nahm auf; hat aufgenommen)
+auftreten (tritt auf; trat auf; ist aufgetreten)
+beachten
+betragen (beträgt; betrug; hat betragen)
+bloß
+das Bein (-e)
+das Gleichgewicht
+das Unrecht
+der Ausgang (¨-e)
+der Forscher (-)
+der Landsmann (pl. Landsleute)
+der Maßstab (¨-e)
+der Versöhnungstag
+der Vertreter (-)
+der Zorn
+die Anweisung (-en)
+die Bestrafung (-en)
+die Betrachtungsweise (-n)
+die Genauigkeit
+die Nahrung
+die Störung (-en)
+die Verkündigung
+die Voraussage (-n)
+die Wendung (-en)
+eigen (für/zu)
+entsprechen (entspricht; entsprach; hat entsprochen)
+entwerfen (entwirft; entwarf; had entworfen)
+erforderlich
+faktisch
+gemein
+Grund-
+hinzukommen (kommt hinzu; kam hinzu; ist hinzugekommen)
+innen
+-kunde
+München
+nunmehr
+pietistisch
+sich zeigen
+sonstige (r;s)
+überwiegen (überwiegt; überwog; hat überwogen)
+unterlassen (unterlaßt; unterließ; hat unterlassen)
+verhältnismäßig
+verschlingen (verschlingt; verschlang; hat verschlungen)
+verzichten (auf)
+werben (wirbt; warb; hat geworben)
+westlich
+zusätzlich
+zussamenhängen (hängt zussamen; hing zussamen; hat zussamengehangen)
+als erstes
+aufwerfen (wirft auf; warf auf; hat aufgeworfen)
+bedenken (bedenkt; bedachte; hat bedacht)
+betreffend
+d/d Bäcker(in)
+das Brötchen (-)
+das Ei (-er)
+das Frühstuck (-e)
+das Gemüse (-)
+das Glas (¨-er)
+das Gut (¨-e)
+das Kaufhause (¨-er)
+das Kino (-s)
+das Klima
+das Mittagessen
+das Pech
+das Pfund (-e)
+das Wetter
+das Wochenende (-n)
+der Fortschritt (-e)
+der Foßball
+der Geburtstag (-e)
+der Käse (-)
+der Kuchen (-)
+der Markt (¨-e)
+der Meister (-)
+der Metzger (-)
+der Schnee
+der Supermarkt (¨-e)
+der Tee
+der Vordergrund
+die Apotheke (-n)
+die Bindung (-en)
+die Gesamtheit
+die Naturwissenschaft (-en)
+die Strecke (-n)
+die Vorrherschaft
+einbetten (in)
+entziehen (entzieht; entzog; hat entzogen)
+fern
+furchtbar
+gern; lieber; liebst-
+grundlegend (für)
+höchst
+künftig
+leider
+müde
+naß (ä)
+nett
+oben
+ruhig
+schneien
+schwimmen (schwinnt; schwamm; ist geschwommen)
+sorgfältig
+spielen
+umgreifen
+verhindern
+vielfach
+widerlegen
+zuschreiben (schreibt zu; schrieb zu; hat zugeschrieben)
+ach so
+amtlich
+ausbreiten
+befassen (mit)
+bewältigen
+das Auto (-s)
+das Cafe (-s)
+das Fahrrad (¨-er)
+das Flugzeug (-e)
+das Glück
+das Hilfsmittel (-)
+das Rad (¨-er)
+das Schiff (-e)
+der Artikel (-)
+der Bus (-se)
+der Film (-e)
+der Fund (-e)
+der Job (-s)
+der Kurs (-e)
+der Mittelpunkt (-e)
+der Onkel (-)
+der Paß (¨-sse)
+der Vorgang (¨-e)
+die Bäckerei (-en)
+die Buchhandlung (-en)
+die Chemie
+die Drogerie (-n)
+die Geschwindigkeit (-en)
+die Kartoffel (-n)
+die Kopfschmerzen
+die Neuerung
+die Notiz (-en)
+die Streuung (-en)
+die Tasche (-n)
+die Vorschrift (-en)
+die Wurst (¨-e)
+einbezihen (bezieht ein; bezog ein; hat einbezogen)
+einkaufen
+erarbeiten
+ferner
+frisch
+grundsätzlich
+höchstens
+interessant
+kochen
+künstlerisch
+öffentlich
+sprachlich
+umkehren
+verkennbar
+vielfältig
+widerspiegeln
+zuspitzen
+anders ausgedrückt
+ausdehnen
+backen (bäckte; buk; hat gebacken)
+befinden (befindet; befand; hat befunden)
+bewußt
+das Baden
+das Geschäft (-e)
+das Hemd (-en)
+das Jahrtausend (-e)
+das Kleid (-er)
+das Labor (-s)
+der Anzug (¨-e)
+der Gang (¨-e)
+der Handschuh (-e)
+der Hut (¨-e)
+der Kaffee
+der Laden (¨-)
+der Nachteil (-e)
+der Pulli (-s)
+der Regenmantel  (¨-)
+der Rock (¨-e)
+der Sakko (-s)
+der Schuh (-e)
+der Strumpf (¨-e)
+der Vorschlag (¨-e)
+der Weltkrieg (-e)
+der Zug (¨-e)
+die Bluse (-n)
+die Daten
+die Ferien (pl.)
+die Firma
+die Gleichheit (-en)
+die Handtasche (-n)
+die Hose (-n)
+die Jacke (-n)
+die Jeans
+die Lebensmittel
+die Meile (-n)
+die Notwendigkeit (-en)
+die Pommes frites (pl.)
+die Reklame (-n)
+die Schokolade
+die Seife
+die Soche (-n)
+die Strom (-e)
+die U-Bahn
+die Wechselwirkung
+eindeutig
+erbringen (erbringt; erbrachte; hat erbracht)
+festlegen (auf)
+gültig
+im Gegenteil
+öfter
+staatlich
+umstritten
+verkennen (verkennt; verkannte; hat verkannt)
+vielschichtig
+widmen
+zuständig
+anderseits
+ausdrücklich
+befriedigen
+dadurch
+das Badezimmer (-)
+das Bücherregal (-e)
+das Büro (-s)
+das Erdgeschoß
+das Eßzimmer (-)
+das Fernsehen
+das Gefühl (-e)
+das Jahrzehnt (-e)
+das Laboratorium (-rien)
+das Restaurant (-s)
+das Schlafzimmer-
+das Wohnzimmer (-)
+der Arzt (¨-e)
+der Balkon (-s)
+der Dachboden (¨-)
+der Flughafen (¨-)
+der Gegensatz (¨-e)
+der Keller (-)
+der Niederschlag (¨-e)
+der Qualm
+der Spaß
+der Stock (-e)
+der Vorteil (-e)
+die Autobahn (-en)
+die Dichte (-n)
+die Handlung (-en)
+die Kneipe (-n)
+die Oberfläche (-n)
+die Polezei
+die Schwierigkeit (-en)
+die Strömung (-en)
+die Wiederholung (-en)
+eindringen (dringt ein; drang ein; ist eingedrungen)
+erfolgen
+fixieren
+häufig
+herzlich
+immerhin
+lächeln
+lecker
+merkwürdig
+östlich
+schlimm
+schmecken
+sicher
+stattfinden (findet statt; fand statt; hat stattgefunden)
+unendlich
+verlagern
+vollkommen
+wiedergeben (gibt wieder; gab wieder; hat wiedergegeben)
+zustimmen
+anerkennen (erkennt an; erkannte an; hat anerkannt)
+auseinander
+aussteigen (steigt aus; stieg aus; ist ausgestiegen)
+begleiten
+bißchen
+dafür
+das Kunstwerk (-e)
+das Lebensjahr (-e)
+das Unglück
+der Beruf (-e)
+der Fernseher (-)
+der Geschirrspüler (-)
+der Grad (¨-e)
+der Hals (¨-e)
+der Hund (-e)
+der Kühlschrank (¨-e)
+der Rang (¨-e)
+der Schmerz (-en)
+der Wasserstoff
+die Badewanne (-n)
+die Dienstleistung (-en)
+die Fahrt (-en)
+die Flasche (-n)
+die Herkunft
+die Illustrierte (-n)
+die Küche (-n)
+die Mietwohnung (-en)
+die Möbel (pl.)
+die Öffentlichkeit
+die Suche (nach)
+die Treppe (-n)
+die Waschmaschine (-n)
+die Wurzel (-n)
+die Zahnpasta
+einengen
+elend
+entwickeln (zu)
+erhöhen
+folgendes
+fürchterlich
+hauptsächlich
+husten
+inhaltlich
+klasse!
+langweilig
+meistens
+persönlich
+schade
+schmutzig
+sich duschen
+spazieren
+steil
+ungefähr
+verlangen
+vollständig
+weh tun (tut; tat; hat getan)
+wiederholen
+zutage
+anführen
+auseinandersetzen
+begrenzen (auf)
+d/d Chef(in)
+d/d Fahrer(in)
+dahin
+das Interesse (-n)
+das Lebewesen (-)
+das Publikum
+dasein (ist da; war da; ist dagewesen)
+der Feiertag (-e)
+der Hinblick (auf)
+der Hof (¨-e)
+der Kaufmann (-leute/die)
+der Kollege (-n)
+der Moment (-e)
+der Reiz (-e)
+der Widersacher
+die Arbeitslosigkeit
+die Differenzierung (-en)
+die Entschuldigung (-en)
+die Freizeit
+die Höhe (-n)
+die Persönlichkeit
+die Pflicht (-en)
+die Summe (-n)
+die Tour (en)
+die Wäsche
+die Wirtschaft
+die Zusammengehörigkeit
+einerseits...anderseits
+erleben
+fördern
+fotografieren
+hemmen
+innere (r; s)
+lustig
+malen
+mieten
+planen
+stetig
+unmittelbar
+verlaufen (verläuft; verlief; ist verlaufen)
+vollziehen (vollzieht; vollzog; hat vollzogen)
+wobei
+zuvor
+angeben (gibt an; gab an; hat angegeben)
+angenehm
+anrufen (ruft an; rief an; hat angerufen)
+ausführen
+begünstigen
+d/d Schüler(in)
+daran
+das Benzin
+das Gehalt (¨-er)
+das Klavier (-e)
+das Mittel
+das Öl
+das Prozent (-e)
+das Vergnügen
+dasselbe
+der arbeitnehmer (-)
+der Bundeskanzler (-)
+der Erfolg
+der Handel
+der Hintergrund (¨-e)
+der Kunde (-n)
+der Preis (-e)
+der Sachverhalt (-e)
+der Unfall (¨-e)
+der Urlaub
+der Widerstand (¨-e)
+die Bahn (-en)
+die Besprechung (-en)
+die Ebene (-n)
+die Instanz (-en)
+die Kundin (-nen)
+die Phantasie (-n)
+die Post
+die Qualität (-en)
+die Tabelle (-n)
+die Zusammensetzung (-en)
+einfügen (in)
+einführen (in)
+ermitteln
+formen
+froh
+herab
+insgesamt
+niedrig
+prägen
+sich freuen (über + acc.)
+sich kümmern um
+spazieren gehen (geht; ging; ist gegangen)
+stets
+stolz
+telefonieren
+unten
+verbringen
+verlorengehan (geht veloren; ging verloren; ist verlorengegangen)
+vom
+wodurch
+zuwenden (wendet zu; wandte zu; hat zugewandt)
+angeblich
+ausführlich
+behalten (behält; behielt; hat behalten)
+darauf
+das Bad (¨-er)
+das Muster 
+dauernd
+der Irrtum (¨-e)
+der Sauerstoff
+der Schritt (-e)
+der Zeitgenosse (-n)
+die Eigenart (-en)
+die Eigentumswohnung (-en)
+die Kenntnis (-se)
+die Planung (-en)
+die Technik (-en)
+die Zusammenstellung (-en)
+einheitlich
+einrichten
+ermöglichen
+-förmig
+heran
+insofern (als)
+prinzipiell
+spitze
+steuern
+teilnehmen (an) (nimmt teil; nahm teil; hat teilgenommen)
+untereinander
+vermehren
+vorangehen (geht voran; ging voran; ist vorangegangen)
+zeichnen
+zweifellos
+achten (auf)
+angehören
+Ausgangs-
+beibehalten (behält bei; behielt bei; hat beibehalten)
+darbieten (bietet dar; bot dar; hat dargeboten)
+das Niveau
+das Object (-e)
+decken
+der Arbeitsplatz (¨-e)
+der Kampf (¨-e) (um)
+der Kuli (-s)
+der Schaden (¨)
+der Schenkel (-)
+der Zeitpunkt (-e)
+die Eigenschaft (-en)
+die Kette (-n)
+die Prägung (-en)
+die Umwandlung (-en) (in)
+die Zuspitzung (-en)
+durchsichtig
+dynamisch
+eigenartig
+einleiten
+einstecken
+erfolgreich
+erneut
+fort-
+heranziehen (zieht heran; zog heran; herangezogen)
+insoweit
+räumlich
+stecken (in)
+still
+strahlen
+süßlich
+technisch
+überleben
+unterliegen (unterliegt; unterlag; ist unterlegen)
+vermeiden (vermeidet; vermied; hat vermieden)
+verraten
+vorbehalten (behält vor; behielt vor; hat vorbehalten)
+zer-
+angemessen
+ausgeprägt
+beimessen (mißt bei; maß bei; hat beigemessen)
+darin
+das Phänomen (-e)
+demgegenüber
+der Kern (-e)
+der Rand (¨-er)
+der Schnitt (-e)
+der Schwerpunkt (-e)
+der Stuhl (¨-e)
+der Türrahmen (-)
+der Zeitraum (¨-e)
+die Einsicht (-en)
+die Katze (-n)
+die Konsequenz (-en)
+die Krankenkasse
+die Möhre (-n)
+die Praxis
+die Unterlage (-n)
+einleuchtend
+ernsthaft
+fad
+fortschreiten (schreitet fort; schritt fort; ist fortgeschritten)
+gewaltig
+heraus
+irgend
+köstlich
+labil
+merken
+reagieren (auf)
+streben (nach)
+umgekehrt
+unternehmen (unternimmt; unternahm; hat unternommen)
+vermeintlich
+vordringen (dringt vor; drang vor; ist vorgedrungen)
+winzig
+zielen (auf)
+andeuten
+angewandt
+ausgesprochen
+beitragen (trägt bei; trug bei; hat beigetragen)
+darlegen
+das Schema (-ta)
+das Steuer (-n)
+das Wurstbrot (-e)
+denen
+der Kreis (-e)
+der Schluß (¨-e)
+der Sender
+der Spaltung (-en)
+der Verdienst (-e)
+der Zufall (¨-e)
+die Abhängigkeit (von)
+die Einstellung (-en)
+die Krise (-n)
+die Lampe (-n)
+die Miete (-n)
+die Problematik
+die Sahne
+die Unternehmung (-en)
+einmalig
+erörtern
+fraglich
+glücklich
+herausarbeiten
+irgendein
+lachen
+laden (lädt; lud; had geladen)
+regeln
+streng
+untersuchen (auf)
+verkürzen
+vermindern
+vorgeben (gibt vor; gab vor; hat vorgegeben)
+zueinander
+angreifen (greift an; griff an; hat angegriffen)
+ausgleichen (gleicht aus; glich aus; hat ausgeglichen)
+belegen
+buchstabieren
+darüber
+das Schicksal (-e)
+das Zahnfleisch
+der Abfall (¨-e)
+der Anstand
+der Aufbau
+der Bach (¨-e)
+der Durchschnitt
+der Künstler (-)
+der Spaziergang (¨-e)
+der Sprachgebrauch
+der Tarif (-e)
+der Zusehen
+die Empfindlichkeit
+die Kritik (-en) (an)
+die Mehrheit
+die Nummer (-n)
+die Regelung (-en)
+die Verbreitung
+einschließlich (+gen)
+erschließen (erschließt; erschloß; hat erschlossen)
+freilich
+herauskommen (kommt heraus; kam heraus; ist herausgekommen)
+irgendwie
+längst
+lauten
+reichen (bis zu; bis nach)
+strittig
+ursprünglich
+vermitteln
+vorhanden
+zugänglich
+annähernd
+auslösen
+beliebig
+darüber hinaus
+das Selbstverständnis
+der Abstand (¨-e)
+der Ausdruck (-e)
+der Baustein (-e)
+der Stamm (¨-e)
+der Text (-e)
+der Wirkstoff (-e)
+der Zweifel (-)
+derart
+die Ähnlichkeit (-en)
+die Einkaufstache (-n)
+die Entfernung (-en)
+die Kunst (¨-e)
+die Richtung (-en)
+die Träne (-n)
+die Verfassung (-en)
+die Versicherung
+einschränken
+erschöpfen
+gegeben
+herauslösen (aus)
+irgendwo
+lebhaft
+lenken (auf)
+los: was ist ~?
+rezipieren
+schätzen
+südlich
+vage
+vermuten
+vorkommen (kommt vor; kam vor; ist vorgekommen)
+zugrunde gehen
+anregen
+ausmachen
+bemühen (um)
+d/d Wissenschaftler(in)
+darus
+das Äußere
+das Holz
+das Spiel (-e)
+der Alltag
+der Bleistift (¨-e)
+der Stammvater
+der Zugang
+der Zweig (-e)
+derartig
+dicht
+die Erregung
+die Rücksicht (-en) (auf)
+die See (-n)
+die Triebkraft (¨-e)
+die Verfügung (-en) (über)
+die Zwiebel (-n)
+dieselbe
+einsehen (sieht ein; sah ein; hat eingesehen)
+erschöpfend
+gegenüberstehen (steht gegenüber; stand gegenüber; hat gegenübergestanden)
+herausstellen
+jährlich
+letztlich
+ökonomisch
+rauschen
+rüchwärts
+sozusagen
+teilweise
+verankern
+vernünftig
+vorläufig
+zugrunde richten
+ans = an das
+ausreichen
+benachbart
+das Abendland
+das Huhn (¨-er)
+das Krankenhaus (¨-er)
+das Stadium (-ien)
+der Augenblick (-e)
+der Genosse (-n)
+der Stand (¨-e)
+deren
+die Baumwolle
+die Erscheinung (-en)
+die Landschaft (-en)
+die Schau (-en)
+die Stabilität
+die Stirne
+die Verknüpfung (-en)
+dir Einrightung (-en)
+einst
+erstaunlich
+geradezu
+hervorbringen (bringt hervor; brachte hervor; hat hervorgebracht)
+jenseits (+gen)
+-los
+rausfahren (fährt raus; fuhr raus; ist rausgefahren)
+sachlich
+spalten
+tierisch
+treten (tritt; trat; ist getreten)
+verarbeiten (zu)
+veröffentlichen
+vorliegen (liegt vor; lag vor; hat vorgelegen)
+zumal
+ansetzen
+ausrichten (auf/an)
+benennen (benennt; benannte; hat benannt)
+d/d Kellner(in)
+d/d Koch(in) (¨-e)
+das Anliegen
+das Resultat (-e)
+das Tun
+der Befund (-e)
+der Gefrierschrank (¨-e)
+der Griff (-e)
+der Standpunkt (-e)
+derjenige; die-; das-; diejenigen
+die Fertigung
+die Figur (-en)
+die Glocke (-n)
+die Kleinigkeit (-en)
+die Länge (-n)
+die Schicht (-en)
+die Vermittlung (-en)
+die Vokabel (-n)
+diskutieren
+einstellen
+erste (r; s)
+geraten (gerät; geriet; ist geraten)
+hervortreten (tritt hervor; trat hervor; ist hervorgetreten)
+jeweilige (r; s)
+mannigfaltig
+rund
+runter
+scharf (ä)
+trachten
+verbessern
+verpflichten (zu)
+vornehmen (nimmt vor; nahm vor; hat vorgenommen)
+zumeist
+ansteigen (steigt an; stieg an; ist angestiegen)
+ausschalten
+benötigen
+bewegen
+d/d Rentner(in)
+das Ausmaß (-e)
+das Telephon (-e)
+das Unternehmen (-)
+der Betracht
+der Kauf (¨-e)
+der Lärm
+der Stil (-e)
+die Abgabe (-n)
+die Faktum (-ten)
+die Fläche (-n)
+die Linie (-n)
+die Schwäche (-n)
+die Vermutung (-en)
+die Wand (¨-e)
+die Werbung
+die Wirtschaftswissenschaft
+doppelt
+drängen
+einwandfrei
+erstere (r; s)
+geringfügig
+heutig
+jeweils
+maßgeblich
+scheinbar
+sich (dat.) vorstellen
+stabil
+Tragen kommen
+verbindlich (für)
+verschieben (verschiebt; verschob; hat verschoben)
+vornherein
+zunehmend
+(das) Amerika
+(das) Bayern
+(das) Belgien
+(das) Dänemark
+(das) England
+(das) Europa
+(das) Frankreich
+(das) Italien
+(das) Rußland
+(das) Spanien
+(sich) ausziehen (zieht aus; zog aus; hat ausgezogen)
+(sich) interessieren (für)
+absolvieren
+abwerten
+anklopfen (bei)
+ausspeien
+besprengen
+blitzblank
+das Argument (-e)
+das Elternhaus (¨-er)
+das Hochgebirge
+das Kloster (ö)
+das Lehramt (¨-er)
+das System (-e)
+der Bergmann (-leute)
+der Eremit (-en)
+der Hunger
+der Mönch (-e)
+der Orden (-)
+der Reformator (-en)
+deutschsprachig
+die Alternative (-n)
+die Empfängnisverhütung
+die Fakultät (-en)
+die Literatur
+die Partei (-en)
+die Partnerschaft
+die Philosophie
+die Scholastik
+die Wilden (pl.)
+direkt
+dominieren
+identifizieren
+kastanienbraun
+kritisieren
+lehramtlich
+leibliche Himmelfahrt
+nachlassen (laßt nach; ließ nach; hat nachgelassen)
+ohne weiteres
+päpstlich
+schweben
+unbefleckt
+verzweifeln
+zerreißen (zerreißt; zerriß; hat zerrissen)
+zur Sprache kommen
+zusammenkriegen
+(das) Englisch
+(das) Spanisch
+abzwingen (+dat)
+ach!
+arrangieren
+automatisch
+autonom
+beeinträchtigen
+das Alphabet (-e)
+das Gottesbild (-er)
+das Hauptfach (¨-er)
+das Nebenfach (-er)
+der Apparat (-e)
+der Herrenwort (-e)
+der Scholoastiker
+der Spaz (-en)
+die Bedarfsdeckung
+die Debatte (-e)
+die Eidgenossenschaft
+die Emanzipation
+die Frauenbewegung
+die Gegenreformation
+die Liste (-n)
+die Mystik
+die Nation (-en)
+die Neuheit (-en)
+die Neutralität
+die Organisation (-en)
+die Platten (-n)
+die Selbstherrlichkeit
+die Situation (-en)
+die Skepsis
+die Spezialität (-en)
+die Tendenz
+dreieinhalb
+durcharbeiten
+emanzipieren
+enorm
+faulenzen
+garantieren
+grammatisch
+kompliziert
+konservativ
+konspirieren
+kulturell
+lebenskräftig
+lokal
+modern
+modernisieren
+passiv
+plausibel
+privat
+produzieren
+progressiv
+protestieren
+räumen
+reduzieren auf
+reformatorisch
+rivalisieren
+skandalös
+traditionell
+zurechtlegen
+abspreizen
+aggressiv
+anfassen
+anmuten
+anrücken
+auflegen
+bedauerlich
+bergen (birgt; barg; hat geborgen)
+berufstätig
+beschwören
+besiedelt
+das Epitheton
+das Lesestück (-e)
+das Spielzeug (-e)
+der Fürst(-en)
+der Leugner (-)
+der Terminus (pl: -mini)
+der Traktat (-e)
+der Vorbehalt
+die Anpassung an (+acc)
+die Aufrührer (-)
+die Erschöpfung
+die Fruchtbarkeit
+die Germanistik
+die Hefe
+die Hure (-n)
+die Milderung
+die Niederlande
+die Preisgabe
+die Regelstudienzeit
+die Reprospektive
+die Umsetzung
+die Unbotmäßigkeit
+die Universität (-en)
+die Verwahrlosung
+die Woge (-n)
+die Zerstreuung
+entgegenführen
+hilfreich
+hineingehören in
+integrieren
+italienisch
+kindlich
+kompliezieren
+launisch
+metaethisch
+mystisch
+nachjagen
+nottun (tut not; tat not; hat notgetan)
+österreichisch
+priesterlich
+relativ
+springen (springt; sprang; hat gesprungen)
+stinken (stinkt; stank; ist gestunken)
+tüchisch
+unerforschlich
+unproduktiv
+unvermeidlich
+versetzen
+vervollstandigen
+winden (windt; wand; hat gewunden)
+wiseen zu (+inf.)
+zeugnis ablegen
+zum Narren halten
+zumuten
+angeboren
+beseitigen
+das Abitur
+das Bier (-e)
+das Gramm (-e)
+das Gymnasium
+das Kilo(gramm)
+das Mofa (-s)
+das Motorrad (¨-er)
+das Picknick (-s)
+das Referat (-e)
+das Schach
+das Semester (-)
+das Seminar (-e)
+das Studentenheim (-e)
+das Videospiel (-e)
+der Amerikaner (-)
+der Erzieher (-)
+der Kamm (¨-e)
+der Kenner (-)
+der Kilometer (-)
+der Lippenstift (-e)
+der Liter (-)
+der Sport (-e)
+der Studierende
+der Vorhalt
+der Zögling (-e)
+die Anglistick
+die Banane (-n)
+die Butter
+die Chimie
+die Erfindung (-en)
+die Geographie
+die Laxheit
+die Marmelade
+die Mathe
+die Physik
+die Politik
+die Psychologie
+die Speghetti (pl.)
+die Straffähigkeit
+die Szene (-n)
+die Vorlesungsnotizen (pl.)
+die Zensur (-en)
+die Zwischenprüfung (-en)
+frevelhaft
+hervorragend
+intelligent
+kreatürlich
+Mensch!
+nervös
+pietetisch
+riechten
+sich geltend machen
+studieren
+trocken
+unberührbar
+unter Vorbehalt
+verhauen
+zersplittern
+zurückschaudern
+(sich) rasieren
+absurd
+abtrocken
+abwaschen (wäscht ab; wusch ab; ist abgewaschen)
+amerikanisch
+arbeitslos
+aufräumen
+biologisch
+das Atom'kraftwerk (-e)
+das Bewerbungsschreiben (-)
+das Einfamilienhaus (¨-er)
+das Fachgeschäft (-e)
+das Mineralwasser
+das Schloß (-¨sser)
+das Skilaufen
+dekorieren
+der Biergarten (¨-)
+der Cassetten-Recorder (-)
+der Flur (-e)
+der Mist
+der Park (-s)
+der Plattenspieler (-)
+der Ratskeller (-)
+der Weltmarkt (¨-e)
+die Cassette (-n)
+die Cola
+die Garage (-n)
+die Hautcreme (-s)
+die Hecke (-n)
+die Jugendherberge (-n)
+die Kurzgeschichte (-n)
+die Maschine (-n)
+die Minute (-n)
+die Mühle (-n)
+die Party (-s)
+die Schokoladencreme
+die Stereoanlage (-n)
+die Straßenbahn (-en)
+die Terrasse (-n)
+die USA (pl.)
+dier Bürgerinitiative (-n)
+gratulieren
+kaputt
+phantastisch
+pleite
+praktisch
+pünktlich
+reparieren
+schick
+schweizer
+sich erkälten
+Ski laufen (läuft; lief; ist gelaufen)
+sparsam
+trampen
+unordentlich
+zelten
+(das) Japan
+(das) Jugoslawien
+(das) Norwigen
+(das) Polen
+(das) Romantisch
+(das) Rumänien
+(das) Schweden
+(das) Ungarn
+basteln
+d/d Ingenieur(in)
+d/d Journalist(in)
+das Examen (-)
+das Jogging
+das Konzert (-e)
+das Musikinstrument (-e)
+das Orchester (-)
+das Produkt (-e)
+das Programm (-e)
+das Repertoire
+das Tennis
+das Theater (-)
+das Theaterstüch (-e)
+das Tischtennis
+der Altbau (-bauten)
+der Basketball
+der Bewerber (-)
+der Bodensee
+der Computer (-)
+der Fremdarbeiter (-)
+der Gastarbeiter (-)
+der Häuserblock (-s)
+der Kindergarten (-)
+der Lebenslauf
+der Partner (-)
+der Programmierer (-)
+der Rohstoff (-e)
+der Streß
+der Stundenplan (¨-e)
+der Temin (-e)
+der Volleyball
+der Wortprozessor (-en)
+die Altstadt (¨-e)
+die Band (-s)
+die Demonstration (-en)
+die Fernsehsendung (-en)
+die Gemeinheit
+die Gewerkschaft (-en)
+die Gitarre (-n)
+die Hausarbeit
+die Importbeschränkung (-en)
+die Industrie (-n)
+die Inflationsrate
+die Informatik
+die Journalistin (-nen)
+die Katastrphe (-n)
+die Kernkraft
+die Mathematik
+die Oper (-n)
+die Probe (-n)
+die Schreibmaschine (-n)
+die Steuererhöhung (-en)
+die Steuersenkung (-en)
+die Wahderung (-en)
+die Ware (-n)
+faszinierend
+gebraut
+greeignet
+jobben
+luxurios
+männlich
+renovieren
+segeln
+streiken
+surfen
+windsurfen gehen (geht; ging; ist gegangen)
+d/d Politiker(in)
+d/d Student(in)
+das Mangan
+das milchglas
+das Netz (-e)
+das Neubaugebiet
+das Plätzchen
+das Schürzchen
+das Volkslied (-er)
+der Kunstdünger (-)
+der Leserbrief (-e)
+der Mauerbogen
+der Quadratkilometer (-)
+die Grünen
+die Gruppenpsycholoie
+die Gurke (-n)
+die Henna
+die Kaffeemaschine (-n)
+die Kfz-Steuer (-n)
+die Kornblume (-n)
+die Männerstimme (-n)
+die Mode (-n)
+drastisch
+geräuchert
+IG-Metall
+kontaktfreudig
+starr
+unsozial
+wehen
+akzeptabel
+Bombardieren
+brüllen
+d/d Sekretär(in)
+das Baby (-s)
+das Programmkino (-s)
+das Projekt (-e)
+das Radeln
+das Radio (-s)
+das Reformhaus (¨-e)
+das Shampoo
+das Steak (-s)
+das Stichwort (¨-er)
+das Streichquartett
+das Tafkleid
+das Walnußblatt (¨-er)
+der Arzneitte
+der Atlantische Ozean
+der Bauzit
+der Beiwagen (-)
+der Dialekt (-e)
+der Minister
+der Nieselregen
+der Schilling (-e)
+der Schlitten (-)
+der Schulabschluß
+der Schwindelmeir
+der Strauß (¨-e)
+der Streik (-s)
+der Tante-Emma-Laden (¨-)
+die Kamillenblute
+die Karies
+die Kinderkrippe
+die Kriminalität
+die Kur
+die Löckchen
+die Lohnfortzahlung
+die Mark
+die Massage (-n)
+die Montage
+die Rockmusik
+die Semmelteig
+experimentieren
+festmachen
+finanziell
+flirten
+gewölbt
+gleichberechtigt
+heiratsfähig
+hereinschauen
+importieren
+international
+mild
+orientalisch
+umweltfreundlich
+ungelernt
+ungemahlen
+ungespritzt
+unverschämt
+Vati
+verderben (i)
+verfaulen
+verfüren
+verschönern
+verschwenden
+wischen
+atmuntgsaktiv
+aufdrehen
+auskommen (kommt aus; kam aus; ist ausgekommen)
+außenpolitisch
+austrinken (trinkt aus; trank aus; ist ausgetrunken)
+ausverkauft
+bummeln
+das BAFöG
+das Bruttosozialprodukt
+das Flugblatt (¨-er)
+das Formular (-e)
+das Hinterhoffest
+degradieren
+der Außenhandel
+der Austauschstudent (-en)
+der Betrieb (-e)
+der Bio-Laden (¨-)
+der Brei
+der Campus
+der Elektroingenieur (-e)
+der Farbfernseher (-)
+der Fischmann (¨-er)
+der Handrücken
+der Status
+der Studeinplatz (¨-e)
+der Teenager (-)
+der Trabant
+der Transport (-e)
+der Treppenläufer (-)
+der Vielvölkerstaat
+der Zuzug
+der Zweite Weltkrieg
+die Adresse (-en)
+die Autonomie
+die Berufsausbildung
+die Maus (¨-e)
+die Messingstange (-n)
+die Mitbestimmung
+die Ölkrise (-n)
+die Parole (-n)
+die Puppe (-n)
+die Rabenmutter
+die Republik (-en)
+die Reserve (-n)
+die Scheibe (-n)
+die Schlagsahne
+die Serie
+die Silbe (-n)
+die Tomate (-n)
+interviewen
+jaulen
+kariert
+klappen
+klassisch
+live
+locker
+mahlen
+mitverdienen
+N.C.
+paritätisch
+partout
+quietschen
+rationalisieren
+verstohlen
+verweichlichen
+volkseigen
+vorwurfsvoll
+waben
+zurückzahlen
+chemiefrei
+das Altersheim (-e)
+das Aroma
+das Autokennzeichen (-)
+das Chemiekkombinat
+das College (-s)
+das Darlehen (-)
+das Eigenheim (-e)
+das Einwohnermeldeamt
+das Flachland
+das Gelächter
+das Gesundheisamt
+das Kraftfahrzeug
+das Parlament (-e)
+der Boom
+der Chor (¨-e)
+der Eliktriker (-)
+der Erste Weltkrieg
+der Europäer (-)
+der Exporteur (-e)
+der Extrakt (-e)
+der Fabrikbesitzer (-)
+der Flüchtling (-e)
+der Franken
+der Geruch (¨-e)
+der Haushalt
+der Hopfen
+der Konsum
+der Kontakt (-e)
+der Liefertermin (-e)
+die Alpenrepublik
+die Arbeitswelt
+die Atmoshpäre
+die Aufenthaltserlaubnis
+die Aufführung (-en)
+die Äußerlichkeit -en
+die Bevölkerungsdichte
+die Biologie
+die Dimension (-en)
+die Elektrotechnik
+die Erbse (-n)
+die Geranien
+die Gleichberechtigung
+die Hornbille
+die Schleife (-n)
+die Schnur (¨-e)
+die Schulwelt
+die Schwelle (-n)
+die Sozialhilfe
+die Strdiengebühren (pl.)
+die Studentin (-nen)
+die Textilien (pl.)
+die Tschecholowakei
+die Versicherungsgesellschaft
+die Vitamintablette (-n)
+diktieren
+elegant
+nebenan
+Neidersachsen
+normal
+offiziell
+pfeifen
+plädieren (für)
+plump
+politisch
+professionell
+quengeln
+schluchzen
+schwindeln
+das Gewebe
+das Gewürz (-e)
+das Grundgesetz
+das Hammelfleisch
+das Häubchen
+das Insektizid (-e)
+das Institut (-e)
+das Instrument (-e)
+das Interview (-s)
+das Kaffeehaus (¨-er)
+das Klischee (-s)
+das Leichtmetall
+das Malz
+das Plakat (-e)
+das Plastik (-en)
+das Rheuma
+der Garten (¨-)
+der Kanton (-e)
+der Karrieremacher
+der Komponist (-en)
+der Kraftfahrzeugmechaniker (-)
+der Kugelschreiber (-)
+der Lernziel (-e)
+der Luxus
+der Luxusgegenstand (-e)
+der Raunzer
+der Schwof
+die Bürokratie
+die Chancengleichheit
+die Chemikalien (pl.)
+die EG (Europäische Gemeinschaft)
+die Exportgüter (pl.)
+die Fabrik (-en)
+die Faser (-n)
+die Gelassenheit
+die Götterspeise
+die Hauptdarstellerin (-nen)
+die Idealfigur
+die Information
+die Komponente (-n)
+die Makrele
+die Türkei
+die Übersch rift (-en)
+die Umfrage (-n)
+die Umschulung
+die Unordnung
+die Würze
+die Zunge
+elektrisch
+englisch
+Genf
+höflich
+respektieren
+riezend
+rodeln
+seufzen
+solide
+sozial
+sozialistisch
+sprachlos
+türkisch
+überfahren (überfährt; überfuhr; ist überfahren)
+ungezwungen
+unkultiviert
+verpestet
+absichtlich
+abtrennen
+abtun
+abwesend
+amtieren
+anfühlen
+anhalten
+anheizen
+ankündigen
+anlaufen
+anmelden
+anordnen
+anreden
+anreisen
+anstelle
+anwesend
+auf etwas anspielen
+aufblicken
+aufbrechen
+aufführen
+aufopernd
+aufpassen
+aufregen
+aufständisch
+aufziehen
+ausdenken
+ausfallen
+auskennen (mit)
+auslaufen
+ausnützen
+ausruhen
+aussondern
+ausstellen
+auswärts
+auszeichen
+beachtlich
+beauftragen
+bedauern
+bedingt
+bedrängen
+befühlen
+begehren
+begehrenswert
+begeistern
+beinah(e)
+beitreten
+beliebt
+bequem
+beraten
+bergab
+bergauf
+beschädigen
+beschäftigen (mit)
+Bescheid sagen
+beschuldigen
+besehen
+besiegen
+bestürzt
+betreten
+betteln
+bewachten
+bewaffen
+bewerben (um)
+Bilanz ziehen
+d/d Abgeordnete(r)
+d/d Angeklagte(r)
+d/d Angestellte(r)
+d/d Gesandte
+d/d Held(in)
+d/d Redner(in)
+d/d Veranstalter(in)
+d/d Vorläufer(in)
+d/d Witwe(r)
+dad Hindernis
+dahingeben
+das Allgemeingut
+das Annäherung
+das Austausch
+das Bündnis
+das Erdgeschoss
+das Fazit
+das Gebäude
+das Gedicht
+das Gefect (-e)
+das Gehälter
+das Gehirn
+das Gehör
+das Gelenk (-e)
+das Geräusch (-e)
+das Geschirr
+das Gespenst
+das Gewissen
+das Gewitter
+das Gift
+das Grundstuck
+das Hochwasser
+das Innenleben
+das Lager (-)
+das Loch
+das Schlagzeug
+das Straßenschild 
+das Tuch (¨-er)
+das Umwetter
+das Verbrechen
+das Verzeichnis
+das Zugeständnis
+dat Zitat (-e)
+der Abbruch
+der Abstecher
+der Anlass
+der Anschlag
+der Austausch
+der Ausweg
+der Bescheid
+der Brocken
+der Bub
+der Bundesrat
+der Bundestag
+der Einfall
+der Einigung
+der erste Stock
+der Freiraum
+der Gedanengung
+der Gegenzug
+der Grimm
+der Hafen (¨)
+der Hall
+der Kasten (ä)
+der Klang (¨-e)
+der Knochen (-)
+der Lebensunterhalt
+der Löffel
+der Lüstgarten
+der Müll
+der Nebensatz
+der Neid
+der Pfad
+der Rachen
+der Rausch (¨-e)
+der Reifen
+der Rückzug
+der Same (-n)
+der Schlamm
+der Schnupfen
+der Schriftsteller
+der Schutz
+der Sold
+der Stift (-e)
+der Strand (-e)
+der Sturz (¨-e)
+der Termin
+der Todesfall (¨-e)
+der Traum (¨-e)
+der Unrat
+der Vertrag (¨-e)
+der Vorsitzender
+der Wellbewerb
+der Zettel (-)
+der Zwischenruf
+derhalben
+derweil
+dezent
+dick
+die Absetzung
+die Abstimmung
+die Abwehr
+die Abwesenheit
+die Agentur
+die Akte
+die Anfrage
+die Arznei
+die Aufnahme
+die Ausgabe
+die Auskunft (¨-e)
+die Austellung
+die Begenung
+die Behörde (-n)
+die Bilanz
+die Bühne
+die Drohung
+die Fälligkeit
+die Faust
+die Gegend
+die Habsucht
+die Haltung
+die Heimat
+die Heirat
+die Hochzeit
+die Kapelle
+die Kehle
+die Kiste
+die Klagenmauer
+die Konkurrenz
+die Kreuzestod
+die Kreuzigung
+die Kuppel
+die Last (-en)
+die Leidenschaft
+die Lieferung
+die Maßeinheit
+die Miene
+die Minderheit
+die Niederlage
+die Redewendung
+die Regie
+die Schlange
+die Schwermut
+die Sehensucht
+die Sehenswürdigkeit
+die Sintflut
+die Sperre
+die Staatsbürgerschaft
+die Stille
+die Überschwemmung
+die Umgangssprache
+die Unterkunft (¨-e)
+die Unterwäsche
+die Versammlung
+die Waffe
+die Währung
+die Weile
+die Wendungen
+die Wohngegend
+die Wolke (-n)
+die Zahlweise
+die Zauberei
+die Zeile (-n)
+diesseits
+drinnen
+drüben
+dünne
+düster
+duzen
+ehemalig
+ehrgeizig
+eilig
+einen Befehlt gehorchen
+einfallen
+einiges
+einlullen
+einreisen
+einsam
+einschätzen
+einschlafen
+einstürtzen
+eintschädigen
+einverstanden sein
+empfindlich
+entehren
+enthüllen
+entsenden
+entspannend
+erkundigen
+erlassen
+ernähern
+erobern
+erreichbar
+errichten
+erschlagen
+erschlagt
+erwachen
+erwachsen
+erwirken
+erzielen
+etliche
+fällig
+falten
+festnehmen
+flehen
+flüchten
+flüssig
+flüstern
+folgend
+formell
+forschen
+fortgehen
+freilassen
+gegenstandlos
+gehorchen
+geleiten (an)
+geschieden
+gesprächig
+gewöhnen
+geziemen
+gleichwie
+grell
+hartnäckig
+heftig
+heimlich
+heiter
+heranwachsen
+herausfinden
+herausfinden
+hervoragend
+heute Morgen
+hindurch
+hinfällig
+hinstellen
+hölzern
+hübsch
+hützen (vor)
+in der Nahe von
+inzwischen
+je
+jemals
+klettern
+klug
+komponieren
+kümmern
+kurzlich
+langen (nach)
+ledig
+lehnen (an/gegen)
+lügen (lügst; log; hat gelogen)
+melden
+merklich
+mindest
+morgen früh
+mutig
+mutmaßlich
+nachdenken (über)
+nachgiebig
+Nahost
+narren
+nichtig
+obdachlos
+prächtig
+prahlen
+rechtzeitig
+riesengroß
+riesig
+rings(her)um
+rühmen
+schaden
+schädigen
+schauspielerisch
+schieben
+schräg
+schupfen
+sieden
+siezen
+sintemal
+sonderbar
+spannen
+spannend
+spitz
+spüren
+strömen
+tauchen
+taufen
+träumen
+tummeln
+üben
+überbringen
+überfullt
+übergewicht
+überprüfen
+überströmen
+überweisen
+umarmen
+ums Leben kommen
+umschwenken
+umsehen (nach)
+umsetzen
+unheimlich
+unsympathisch
+unterdes(sen)
+unterstehen
+unterstreichen
+unterstützen
+verabreden
+verabschieden
+verdecken
+verdrängen
+verfeinden (mit)
+verführen
+vergeblich
+vergnügen
+vergrößern
+verhandeln (über)
+verhängen
+verkleinern
+verlegen
+verleihen
+verlieben (in)
+verreisen (nach)
+verringern
+verschütten
+versöhnlich
+versprechen
+verspüren
+vertauschen
+vertragen
+vertreiben
+verüben
+verwechseln (mit)
+verwöhnen
+verwundern
+volkstümlich
+vollbringen
+vorerst
+vorlesen
+vormittag
+vorn
+vorsichtshalber
+vorwerfen
+wahrscheinlich
+wegmüssen
+wehren
+weich
+weinen
+wertvoll
+weshalb
+würdigen
+zeitgenössich
+zeitweise
+zufolge
+zurechtfinden
+zurückblicken
+zusteuern
+zutrauen
+
